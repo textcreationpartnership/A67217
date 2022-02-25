@@ -1,0 +1,960 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Comfort for believers, or, A discourse of the duty and priviledge of being sealed by the Holy Spirit In five sermons upon Eph. I. 13-- published for the establishment of weak believers, who are fill'd with doubts and fears about their eternal state. By Nathanael VViles pastor of a Church of Christ in Shadwell.</title>
+            <author>Wyles, Nathaniel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 137 KB of XML-encoded text transcribed from 84 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67217</idno>
+            <idno type="STC">Wing W3770A</idno>
+            <idno type="STC">ESTC R221272</idno>
+            <idno type="EEBO-CITATION">99832605</idno>
+            <idno type="PROQUEST">99832605</idno>
+            <idno type="VID">37079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37079)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2105:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Comfort for believers, or, A discourse of the duty and priviledge of being sealed by the Holy Spirit In five sermons upon Eph. I. 13-- published for the establishment of weak believers, who are fill'd with doubts and fears about their eternal state. By Nathanael VViles pastor of a Church of Christ in Shadwell.</title>
+                  <author>Wyles, Nathaniel.</author>
+               </titleStmt>
+               <extent>[12], 154, [2] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for James Gibbs, and are to be sold by Caleb Hooker, at the Muzeled Bear upon VVapping-VVall near Pelican-Stairs,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle dedicatory dated: Decemb. 4. 1696.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Copy has some print fade.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Ephesians I, 13 --  Sermons --  Early works to 1800.</term>
+               <term>Holy Spirit --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Future life --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37079:1"/>
+            <pb facs="tcp:37079:1"/>
+            <p>COMFORT FOR BELIEVERS, OR, A Diſcourſe of the Duty and Priviledge of <hi>being Sealed</hi> by the Holy Spirit.</p>
+            <p>In Five Sermons upon <hi>Eph.</hi> 1. 13—PUBLISHED For the Eſtabliſhment of weak Believers, who are fill'd with Doubts and Fears about their Eternal State.</p>
+            <p>By <hi>Nathanael VViles</hi> Paſtor of a Church of Chriſt in <hi>Shadwell.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Now he which ſtabliſheth us with you in Christ, and hath anointed us is God. Who hath ſealed us, and given the earneſt of the Spirit in our Hearts.</hi> 
+                  <bibl>2 Cor. 1. 21, 22.</bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>James Gibbs,</hi> and to be ſold by <hi>Caleb Hooker,</hi> at the <hi>Muzeled-Bear</hi> upon <hi>VVapping-VVall</hi> near <hi>Peliean-Stairs.</hi>
+            </p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:37079:2"/>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>Thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Shadow, Shadows out the Face of one.</hi>
+               </l>
+               <l>
+                  <hi>Whoſe Life's a Bubble, and will soon be gone.</hi>
+               </l>
+               <l>
+                  <hi>He is a Mortal, and must ſhortly dye:</hi>
+               </l>
+               <l>
+                  <hi>But hopes to live with Chriſt Eternally</hi>
+               </l>
+               <l>
+                  <hi>Who lost his Life, and freely ſhed his Blood,</hi>
+               </l>
+               <l>
+                  <hi>He truſts to Sa<g ref="char:cmbAbbrStroke">̄</g>ve, and bri<g ref="char:cmbAbbrStroke">̄</g>ng him unto God.</hi>
+               </l>
+               <l>
+                  <hi>My Fleſh, my Soul, my All I owe to Thee,</hi>
+               </l>
+               <l>
+                  <hi>My ble<g ref="char:cmbAbbrStroke">̄</g>ſsed Lord, whos<g ref="char:cmbAbbrStroke">̄</g>e Stripes are Balm to me.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37079:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:37079:3"/>
+            <pb facs="tcp:37079:3"/>
+            <head>THE Epiſtle Dedicatory, To all who are in God the Father, and in our Lord Jeſus Chriſt, but particularly to the Church of Chriſt, meeting in <hi>Shadwell,</hi> Grace, Mercy, and Peace be multiplied.</head>
+            <opener>
+               <salute>Dearly Beloved,</salute>
+            </opener>
+            <p>
+               <hi>THE wiſeſt of Men hath told us (excepting Chriſt) that a word ſpoken in Seaſon, (or, as it is in the Original, upon his Wheels) is like Apples of Gold in Pictures of Silver,</hi> Prov. 25. 11. <hi>Oh how excellent are Words, rightly ordered,</hi>
+               <pb facs="tcp:37079:4"/> 
+               <hi>placed, and circumſtantiated; ſuch words of all are the most excellent, the moſt prevalent, and the moſt plea<g ref="char:EOLhyphen"/>ſant Words that can be ſpoken; they are moſt precious, moſt de<g ref="char:EOLhyphen"/>ſirable, and most delectable; the Lord grant that what is here ſpo<g ref="char:EOLhyphen"/>ken in this Treatiſe, may be ſuch kind of Words, that all that read them may find them moſt precious, moſt ſweet, and very ſeaſonable.</hi>
+            </p>
+            <p>
+               <hi>To time a Word (Beloved) in Seaſon is to ſet it upon the Wheels. And, Oh that this might be a Word well timed! To ſpeak a word to the purpoſe</hi> (ſi Deo placuerit, <hi>if it ſhall pleaſe the Lord) is the project and deſign of this Book; there is a great glory upon all words of Truth, but there is a double Glory upon ſeaſona<g ref="char:EOLhyphen"/>ble words of Truth.</hi>
+            </p>
+            <p>
+               <hi>Therefore in the following diſcour<g ref="char:EOLhyphen"/>ſes I have made it my Care and Bu<g ref="char:EOLhyphen"/>ſineſs to ſet before you a ſeaſonable,</hi>
+               <pb facs="tcp:37079:4"/> 
+               <hi>comfortable, and encouraging Truth and if the Lord will ſet in by his Spirit, (I am ſure) you will find it ſuch to be ſealed by the Spirit, and to have his Witneſs in our Hearts, (that God loves us with an Ever<g ref="char:EOLhyphen"/>lasting Love, therefore with Loving Kindneſs he hath drawn us,</hi> Jer. 31. 3. <hi>And that we are the Children of God) is moſt ſweet and comforta<g ref="char:EOLhyphen"/>ble; there is nothing can, or will encourage the Saints of God, living, and dying, and comfort their Souls more than this.</hi>
+            </p>
+            <p>
+               <hi>A Seal beloved is for two Ends,</hi> viz. <hi>Safety, and Secreſie; and Sealing is uſed in three Caſes.</hi> Firſt, <hi>to keep things ſecret, that they may not be ſeen.</hi> Secondly, <hi>Diſtinct, that they may not be confuſed. And</hi> Thirdly, <hi>Safe, that they may be forth-coming; theſe uſes you will find opened in the Book: To ſet forth the unſpeakable Priviledges</hi>
+               <pb facs="tcp:37079:5"/> 
+               <hi>of Believers Sealed by the Spirit, from which may be drawn much com<g ref="char:EOLhyphen"/>fort and ſweetneſs: there is not a more encouraging and comforting Truth in all the Book of God, well underſtood and applied, than this is of Sealing by the Holy Spirit to the Day of Redemption,</hi> Eph. 4. 30.</p>
+            <p>
+               <hi>In theſe Sermons of Sealing by the Holy Spirit, I may ſay,</hi> There is Milk for Babes, and Meat for ſtrong Men. <hi>I hope all that ſee, or read them, will reap benefit by them.</hi>
+            </p>
+            <p>
+               <hi>Many of you (Beloved) were well pleaſed, and much refreſhed in the hearing of theſe Sermons; and I truſt, yea, and ſhall pray, that you may be alſo built up, and nouriſhed in the reading of them.</hi>
+            </p>
+            <p>
+               <hi>'Tis true, they are brought forth and ſet before you in a homely Dreſs,</hi>
+               <pb facs="tcp:37079:5"/> 
+               <hi>not garniſhed with fine Phraſes, and Rhetorical Expreſſions; but ſuch as they are, I hope you will accept of them: The deſign of them is honeſt,</hi> viz. <hi>God's Glory, and the edifying and building up of your Souls in Chriſt Jeſus.</hi>
+            </p>
+            <p>
+               <hi>What you find of God in them, to the uſe of Edifying, give him all the Glory of it; and bleſs his Name, for making the hearing, or reading of theſe Sermons beneficial to your Souls.</hi>
+            </p>
+            <p>
+               <hi>I am well aware, That ſome will cenſure me, for what I have here done and offered to the World. But if God may have Glory by theſe weak Endeavours of mine, and any poor Soul reap Spiritual Comfort and Ad<g ref="char:EOLhyphen"/>vantage, then I ſhall have my end, and bear up chearfully under the va<g ref="char:EOLhyphen"/>riety of Cenſures, which may be paſs'd upon me</hi>
+            </p>
+            <pb facs="tcp:37079:6"/>
+            <p>
+               <hi>To conclude, Conſider this one thing Chriſtians, for your comfort and eſtabliſhment in Chriſt Jeſus,</hi> viz. That thoſe who are Sealed by the Spirit of God here, ſhall be crown<g ref="char:EOLhyphen"/>ed with Eternal Glory hereafter, <hi>Rev. 2. 10. Such ſhall have a Crown of Life. Chriſt has bought the king<g ref="char:EOLhyphen"/>dom of Heaven for them that Be<g ref="char:EOLhyphen"/>lieve, and hath paid for it at an high rate; even his moſt precious Blood is the price paid for it,</hi> Eph. 1. 14. 1 Pet. 1. 17, 18, 19. <hi>And he hath prepared for them Manſions, who are Deniſons; Crowns for them who are Heirs: And pray who are theſe, but ſuch as are born again, and Sealed by the Spirit of Promiſe,</hi> Rom. 8. 16, 17.</p>
+            <p>
+               <hi>Believers have Aſſurance of Hea<g ref="char:EOLhyphen"/>ven three ways.</hi>
+            </p>
+            <p>Firſt, <hi>By Fai<g ref="char:cmbAbbrStroke">̄</g>th in Chriſt,</hi> 1 Pet. 1, 9. <hi>Receiving the end of your faith, even the Salvation of your Souls.</hi>
+            </p>
+            <pb facs="tcp:37079:6"/>
+            <p>
+               <hi>Secondly, By their hearty and real Conformity to Chriſt,</hi> Rom. 8. 29. For whom he did fore-know, he alſo did Predeſtinate to be made conformable to the Image of his Son.</p>
+            <p>
+               <hi>Thirdly, By the Sealing Work of the Spirit.</hi> For they are Sealed unto the Day of Redemption, <hi>Eph. 4. 30. And ſays</hi> Paul, <hi>in the Text, Eph.</hi> 1. 13, 14. After that ye Be<g ref="char:EOLhyphen"/>lieved, ye were Sealed with that Holy Spirit of Promiſe, which <hi>(ſays he)</hi> is the earneſt of our In<g ref="char:EOLhyphen"/>heritance, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Believers ſhall as certainly be glorified, as if they were Crowned already,</hi> John 14. 1, 2, 3. <hi>They be Heirs to Heaven's Crown here, and ſhall be poſſeſſed of it when they come there: What the Saints hold now in reverſion, they ſhall then have in full poſſeſſion, and be with their God in the Impyreal Heaven, where there</hi>
+               <pb facs="tcp:37079:7"/> 
+               <hi>will be nothing preſent, that offends, nor nothing abſent that delights.</hi>
+            </p>
+            <p>
+               <hi>Now that you may all (Beloved) arrive at this place of Bleſſedneſs, and be for ever with the Lord, is, and ſhall be the prayers of him, who ſubſcribes himſelf, Your Servant in the Goſpel, for Jeſus's ſake,</hi>
+            </p>
+            <closer>
+               <signed>Nathanael Wyles.</signed>
+               <dateline>
+                  <date>
+                     <hi>Decemb.</hi> 4. 1696.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="sermon">
+            <pb n="1" facs="tcp:37079:7"/>
+            <head>Believers Sealed BY THE Spirit of Promiſe.</head>
+            <epigraph>
+               <bibl>Firſt Sermon, from <hi>Epheſ.</hi> 1. the latter part of the 13 <hi>verſe.</hi>
+               </bibl>
+               <q>
+                  <hi>In whom alſo, after that ye believed, ye were Sealed with the Holy Spirit of Promiſe.</hi>
+               </q>
+            </epigraph>
+            <p>THE Apoſtle <hi>Paul,</hi> a Ser<g ref="char:EOLhyphen"/>vant of Chriſt, in this Chapter enumerates the principal Chriſtian Privileges, and Bleſſings, that were given to, and
+<pb n="2" facs="tcp:37079:8"/> conferred on Believers thro' Chriſt, which were the occaſion of his Doxology and Solemn Thankſ<g ref="char:EOLhyphen"/>giving, <hi>verſe</hi> the <hi>third. Bleſſed,</hi> (ſays he) <hi>be the God and Father of our Lord Jeſus Chriſt, who hath bleſſed us,</hi> that is, us Believers, <hi>with all ſpiritual bleſſings in heaven<g ref="char:EOLhyphen"/>ly places,</hi> or things, <hi>in Chriſt Jeſus.</hi> Whence note, That Chriſt is the Foundation of all thoſe Spiritual Bleſſings that are given and be<g ref="char:EOLhyphen"/>ſtowed on the Saints. <hi>Secondly,</hi> That God the Father is to be bleſ<g ref="char:EOLhyphen"/>ſed, that is, praiſed and glorified, for theſe ſpiritual Bleſſings, who is the Donor of them through Jeſus Chriſt. <hi>Bleſſed be the God and Fa<g ref="char:EOLhyphen"/>ther,</hi> &amp;c. What theſe rich Bleſ<g ref="char:EOLhyphen"/>ſings are, which are beſtowed on Believers, in and through Chriſt, the Apoſtle ſhews, from the 4. to the 13 <hi>v.</hi> and numbers them up, which are;</p>
+            <pb n="3" facs="tcp:37079:8"/>
+            <p>1. Election before the Founda<g ref="char:EOLhyphen"/>tion of the World, or from Eter<g ref="char:EOLhyphen"/>nity, in Chriſt, <hi>v.</hi> 4. according as he <hi>(viz.</hi> God) <hi>hath choſen us in him,</hi> (viz. Chriſt) <hi>before the foun<g ref="char:EOLhyphen"/>dation of the world, that we ſhould be holy, and without blame before him in love.</hi> Where obſerve four things. 1. That the efficient cauſe of Election is the love of God, 2 <hi>Tim</hi> 1. 9.</p>
+            <p>
+               <hi>Secondly,</hi> That the Election of Perſons is ſounded in Jeſus Chriſt, choſen us in him. Chriſt is the Elect of God, and all the Elect are choſen of God in Chriſt.</p>
+            <p>
+               <hi>Thirdly,</hi> Election of certain Per<g ref="char:EOLhyphen"/>ſons in Chriſt is not after they are born, or do believe, but before, even from Eternity: he hath cho<g ref="char:EOLhyphen"/>ſen us in him: when? <hi>before the foundation of the world,</hi> that is, from Eternity. Election is from Ever<g ref="char:EOLhyphen"/>laſting, though Vocation is in time.</p>
+            <pb n="4" facs="tcp:37079:9"/>
+            <p>
+               <hi>Fourthly,</hi> That God hath not choſen Perſons to happineſs only, but to holineſs; <hi>that we ſhould be holy,</hi> &amp;c. Happineſs is the End, Holineſs, through Chriſt, the means to that End: Though God has choſe ſome to happineſs, and they ſhall all certainly be Saved, he having ſet <hi>his Seal upon them;</hi> yet <hi>they that name Chriſt's Name, muſt depart from Iniquity.</hi> So ſaith the Apoſtle, 2 <hi>Tim.</hi> 2. 19.</p>
+            <p>
+               <hi>Secondly.</hi> Another Bleſſing is Predeſtination unto the Adoption of Children, by Jeſus Chriſt, ac<g ref="char:EOLhyphen"/>cording to the good will and plea<g ref="char:EOLhyphen"/>ſure of God; to the Glory and Praiſe of his rich Grace, <hi>v.</hi> 4. and 5.</p>
+            <p>
+               <hi>Thirdly.</hi> Acceptance with God, (both of our Perſons and Services) in, and through Chriſt, who is the beloved, is another Bleſſing, <hi>v.</hi> 6. to the praiſe and glory of his grace, wherein he, <hi>(viz.</hi> God) hath made us accepted in the Beloved.</p>
+            <pb n="5" facs="tcp:37079:9"/>
+            <p>
+               <hi>Fourthly.</hi> Redemption from ſin and wrath, through the Blood of Chriſt, which is precious Blood, that only makes peace with God for us, <hi>v.</hi> 7. In whom, through or by whom, <hi>we have Redemption through his Blood, Coloſ.</hi> 1. 20.</p>
+            <p>
+               <hi>Fifthly.</hi> Forgiveneſs of Sins, which is a Soul-inriching Bleſſing. This comes through the bitter ago<g ref="char:EOLhyphen"/>ny and blood-ſhed of Chriſt to us, <hi>Heb.</hi> 9. 22. We have not only Re<g ref="char:EOLhyphen"/>demption, but Pardon and For<g ref="char:EOLhyphen"/>giveneſs of Sins through Chriſt, according to the riches of his grace, bounty or goodneſs, <hi>v.</hi> 7.</p>
+            <p>
+               <hi>Sixthly.</hi> A manifeſtation and diſcovery of the myſtery of God's Will, through Chriſt, in the Goſ<g ref="char:EOLhyphen"/>pel, concerning the Salvation of Sinners, <hi>&amp;c.</hi> according to his good pleaſure, which he hath purpoſed in himſelf, <hi>v.</hi> 9. Whence obſerve, That not only the Election, but alſo the vocation of the adopted
+<pb n="6" facs="tcp:37079:10"/> Sons of God, proceedeth from meer free Grace in Chriſt, and no<g ref="char:EOLhyphen"/>thing elſe.</p>
+            <p>
+               <hi>Seventhly.</hi> Union with Chriſt, the Head of all the Faithful; this is a great bleſſing and priviledge, mentioned <hi>v. 10. That in the diſ<g ref="char:EOLhyphen"/>penſation of the fulneſs of times</hi> (that is, in the time prefixed by the Lord, who is the diſpoſer of times and of order in all things, for the accompliſhment of the Promiſes that concerned Chriſt the Meſſiah, and that concerns all the Elect in him) <hi>he might gather in one all things in Chriſt;</hi> reduce into one capital ſum, or bring under one head, ſo the word ſignifies, <hi>both which are in heaven, and which are on earth, even in him.</hi> Some underſtand here the Faithful, whereof ſome are now in Heaven, and others are yet upon the Earth, which are cal<g ref="char:EOLhyphen"/>led and gathered into one body, and under one head. The Faithful
+<pb n="7" facs="tcp:37079:10"/> may be ſaid to be gathered toge<g ref="char:EOLhyphen"/>ther in Chriſt (which holds forth their myſtical Union with him) becauſe they are joined together with him by Faith, and ſo are be<g ref="char:EOLhyphen"/>come, as it were, one Man. But,</p>
+            <p>
+               <hi>Eighthly.</hi> In the 11. and 12. <hi>v.</hi> you have the vocation, or calling, both of <hi>Jew</hi> and <hi>Gentile,</hi> to the participation of that Redemption in Chriſt, according to God's good pleaſure and purpoſe; of the <hi>Jew</hi> firſt, and afterwards of the <hi>Gentile. In whom alſo we have obtained an Inheritance, being predeſtinated ac<g ref="char:EOLhyphen"/>cording to the purpoſe of him, who worketh all things according to the counſel of his own will, that we ſhould be to the praiſe of his glory, who firſt truſted</hi> (or hoped) <hi>in Chriſt.</hi> Where obſerve four things. 1. That the calling of <hi>Jew</hi> and <hi>Gentile</hi> by Grace in Chriſt here, and their obtain<g ref="char:EOLhyphen"/>ing Heaven and Glory hereafter, is all according to the good pleaſure, and wiſe purpoſe of God.</p>
+            <pb n="8" facs="tcp:37079:11"/>
+            <p>
+               <hi>2dly.</hi> All things are attributed to the Free Grace of God through Chriſt, without exception, who worketh all things; yet we are not ſtocks, for he giveth us Grace both to will and to do thoſe things that are good, <hi>Phil.</hi> 2. 13.</p>
+            <p>
+               <hi>3dly.</hi> God's working all things, not ſimply according to his will, but according, or after the coun<g ref="char:EOLhyphen"/>ſel of his own will, teach us thus much, That God, as an intelligent and moſt wiſe Agent, doth all things upon moſt juſt and prudent grounds, known to himſelf; and he hath always a reaſon for his will, tho' to us his will muſt ſtand for the ſupream Reaſon. <hi>Stat pro ratione volunt as, Matth.</hi> 11. 26.</p>
+            <p>
+               <hi>4thly.</hi> Obſerve the great end of all this, <hi>viz.</hi> the praiſe and glory of his Grace, <hi>i. e.</hi> of his glorious Grace; that as his bountiful good<g ref="char:EOLhyphen"/>neſs, and love in Chriſt, deſerveth all praiſe, ſo alſo it ſhould be ſet forth and publiſhed.</p>
+            <pb n="9" facs="tcp:37079:11"/>
+            <p>
+               <hi>Ninthly.</hi> In the 13, 14. <hi>Paul</hi> ſpeaks particularly of the vocation of the <hi>Epheſians,</hi> to whom he wrote. And that 1. by the operation of the word of truth, which they heard. 2. By the obſignation of the ſpirit, in whom alſo they truſted after that they heard the word of Truth, the Goſpel of your Salvation. <hi>In whom alſo, af<g ref="char:EOLhyphen"/>ter that ye believed, ye were Sealed with the Spirit of Promiſe.</hi> Here is another Bleſſing, which is not one of the leaſt, though it be one of the laſt named.</p>
+            <p>In this one Verſe (part of which is our Text) we have two noble acts of Faith ſpoken of and diſ<g ref="char:EOLhyphen"/>play'd.</p>
+            <p n="1">1. A direct act, called truſting, <hi>In whom alſo ye trusted,</hi> &amp;c.</p>
+            <p n="2">2. A reflex Act, which in or<g ref="char:EOLhyphen"/>der of Nature and Time follows it, which act is implied in the word <hi>Sealing. In whom alſo, after</hi>
+               <pb n="10" facs="tcp:37079:12"/> 
+               <hi>that ye believed, ye were Sealed,</hi> &amp;c. In which words are theſe four parts; as,</p>
+            <p n="1">1. The Subjects of this Sealing, or Aſſurance, and they are Believ<g ref="char:EOLhyphen"/>ers; ſuch as have cloſed in with Chriſt by Faith. An Unbeliever, as ſuch, was never ſealed, unleſs to damnation. 'Tis Believers only that are ſealed to Salvation. <hi>In whom after that ye believed,</hi> &amp;c.</p>
+            <p n="2">2. The nature of this Aſſurance. <hi>Paul</hi> calls it a Sealing; <hi>ye were ſeal<g ref="char:EOLhyphen"/>ed,</hi> &amp;c. Aſſurance (ſays one) is like to a Seal for three things.</p>
+            <p n="1">1. It confirms the Grants of God. And,</p>
+            <p n="2">2. It declares the purpoſe of God. And,</p>
+            <p>
+               <hi>Laſtly,</hi> It diſtinguiſhes the Per<g ref="char:EOLhyphen"/>ſons ſo priviledged, from other Perſons.</p>
+            <p n="3">3. Here is the Author of this Sealing, <hi>viz.</hi> The <hi>Holy Spirit of Promiſe. Ye were Sealed by the Holy</hi>
+               <pb n="11" facs="tcp:37079:12"/> 
+               <hi>Spirit of Promiſe.</hi> It is he (Belov<g ref="char:EOLhyphen"/>ed) that keeps the great Seal of Heaven, and it is his Office to Seal, and to confirm, to Believers, their Intereſt in Chriſt by Faith, and right to Heaven, and Glory: As it is his work to ſanctifie, ſo alſo to ſeal Believers, and witneſs to them their Adoption, <hi>Rom. 8. 16. The Spirit witneſs with our Spi<g ref="char:EOLhyphen"/>rits, that we are the children of God.</hi>
+            </p>
+            <p n="4">4. You have the quality of this Spirit that ſeals Believers; he is a Holy Spirit, and he ſeals the Saints as an <hi>Holy Spirit of Promiſe.</hi> Now the Spirit's ſealing thus, 1. as an holy <hi>Spirit,</hi> relates to his previous work of <hi>Sanctification</hi> in the Souls of them he ſeals: the Spirit firſt ſanctifies, and then ſeals the Soul.</p>
+            <p>2. As a <hi>Spirit of Promiſe;</hi> this reſpects the Medium, or Inſtru<g ref="char:EOLhyphen"/>ment made uſe of by him in his ſealing of Believers, <hi>viz.</hi> the Pro<g ref="char:EOLhyphen"/>miſes
+<pb n="12" facs="tcp:37079:13"/> of God, which are made in, or with Chriſt the Head, for all Believers, and given to them thro' him, 2 <hi>Pet.</hi> 1. 4. The Spirit opens and applies the Promiſes of the Goſpel to Believers, in order to their ſealing.</p>
+            <p>Thus having opened the <hi>Text,</hi> and given the Analyſes of it, we ſhall note two Doctrines.</p>
+            <floatingText xml:lang="eng" type="doctrine">
+               <body>
+                  <head>Firſt Doctrine.</head>
+                  <p>That the Spirit of God, who is a ſealing Spirit, is a holy Spirit, or a Spirit of Holineſs; the Sanctifier of unholy Perſons: he is called by this Name often in the <hi>Scriptures, 1 Theſ.</hi> 1. 5. As the Devil is an unclean Spirit, or a Spirit of un<g ref="char:EOLhyphen"/>cleanneſs, <hi>Matth.</hi> 12. 43. ſo the Spirit of God is a holy Spirit, or a Spirit of holineſs. We read of the ſanctification of the Spirit, 1 <hi>Pet.</hi> 1. 3. And we are ſaid, 2 <hi>Cor. 3. 18. to be changed from glory to</hi>
+                     <pb n="13" facs="tcp:37079:13"/> 
+                     <hi>glory, into the Image and likeneſs of Chriſt, even by the Spirit of promiſe.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>I ſhall not inlarge upon this, on<g ref="char:EOLhyphen"/>ly beſeech you in Chriſt's ſtead, to examine your ſelves, whether you have this holy Spirit of Promiſe dwelling in you; know this, that if you have not the Spirit of Chriſt (Profeſs what you will) you are none of his, <hi>Rom.</hi> 8. 9. Have you therefore the Spirit or not? If you have, then you are Chriſt's, and transform'd into his Image and Likeneſs; you are made comely, through his comelineſs put upon you, <hi>Ezek.</hi> 16. 14. If you have not the Spirit, you are ſtill under the power of <hi>Satan,</hi> led captive by him at his will, 2 <hi>Tim.</hi> 2. 26. He rules in your hearts, and has his throne there, <hi>Eph.</hi> 2. 2, 3.</p>
+            <p>Queſt. <hi>How ſhall we know we have the Spirit?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By his bleſſed Operations and Fruit in your Souls; where
+<pb n="14" facs="tcp:37079:14"/> the Spirit is, the Soul is changed and renewed; and there's Faith, Love, Patience, and other Fruits of the Spirit, 1 <hi>Cor. 5. 17. Gal.</hi> 5. 21, 22.</p>
+            <floatingText xml:lang="eng" type="doctrine">
+               <body>
+                  <head>Second Doctrine.</head>
+                  <p>The great Priviledge and Bleſ<g ref="char:EOLhyphen"/>ſing of ſealing by the Spirit, follows the duty and act of Believing; <hi>In whom alſo, after that ye believed, ye were ſealed with the holy Spirit of Promiſe.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>For the proſecution of this great Truth, for your Edification and building up in Chriſt Jeſus, I ſhall</p>
+            <p n="1">1. Shew you what the ſealing of the Spirit is, and how it is per<g ref="char:EOLhyphen"/>formed by him in the Soul.</p>
+            <p n="2">2. Shew you why none are ſealed with the Spirit, till after they do believe, and cloſe in with Chriſt by Faith.</p>
+            <p n="3">3. Shew, whether all Believers are ſealed by the Spirit.</p>
+            <p n="4">
+               <pb n="15" facs="tcp:37079:14"/>4. Shew you the great Privi<g ref="char:EOLhyphen"/>ledges of them that are Sealed.</p>
+            <p n="5">5. Then ſum up all by way of Application.</p>
+            <p>1. Shew you what the Spirit's Sealing is, and how it is performed by him in the Soul.</p>
+            <p>In general: the Sealing of the holy Spirit is his giving a ſure and certain teſtimony to the reality and truth of that Grace, whichhe hath wrought in their Souls, and to their ſaving Intereſt in Jeſus Chriſt, and propriety in all the promiſes of the Goſpel, that are made in Chriſt, for all true Be<g ref="char:EOLhyphen"/>lievers: This is the Spirit's Seal<g ref="char:EOLhyphen"/>ing, whereby he reſolves the fears, and ſatisfies the Souls of Believers, whom he ſeals, about their ſtate and condition.</p>
+            <p>This ſealing Work is alone by the Spirit, none elſe need do it, and no meaner Perſon than he can do it. The Holy Ghoſt delight<g ref="char:EOLhyphen"/>eth
+<pb n="16" facs="tcp:37079:15"/> to ſpeak in our Language, that we may underſtand him; and becauſe we cannot riſe to him, he therefore ſtoopeth unto us.</p>
+            <p>Under the Law we find that a matter of great concernment and weight, was to be proved and confirmed by two ſufficient Wit<g ref="char:EOLhyphen"/>neſſes, <hi>Deut. 19. 15. One witneſs ſhall not riſe up againſt a Man for any iniquity,</hi> &amp;c. <hi>at the mouth of two witneſſes, or at the mouth of three, ſhall the matter be eſt abliſhed,</hi> or confirmed. Now the ſincerity or uprightneſs of our Souls before God, and our ſaving Intereſt in Jeſus Chriſt, are matters of great, yea, greater concernments to us, than all in the World. And being ſo, they need a further Witneſs to confirm them, than our own Spi<g ref="char:EOLhyphen"/>rits; therefore the Spirit of God witneſſeth with our Spirit, that we are the Children of God, thro' Chriſt Jeſus: 'tis by him that we
+<pb n="17" facs="tcp:37079:15"/> know God is our Father, and that we are enabled to call upon him in Chriſt as our Father, <hi>Gal. 4. 5, 6. He hath given us the Spirit of his Son, whereby we cry Abba Father.</hi>
+            </p>
+            <p>This Sealing is not only a wit<g ref="char:EOLhyphen"/>neſſing to us, but it is a work upon us, and in us, carrying the Image of him that Sealeth us; whereby (ſaith Dr. <hi>Sibbs)</hi> we are not only aſſured of the Good pro<g ref="char:EOLhyphen"/>miſed to us, but freed for the re<g ref="char:EOLhyphen"/>ceiving of it. God prepares no Good for any, but whom he pre<g ref="char:EOLhyphen"/>pares and fits by his Spirit for that good, 2 <hi>Cor.</hi> 5. 4, 5, 6.</p>
+            <p>There be three things that the Spirit doth in Sealing Believers, which things all concur together, and muſt be in this Sealing Work.</p>
+            <p n="1">1. The Spirit Sanctifies the Soul, and makes it holy; he never Seals before he Sanctifies; this is the Spirit's material and objective Seal; where he is a Sealing Spirit,
+<pb n="18" facs="tcp:37079:16"/> there he is a Spirit of Sanctifica<g ref="char:EOLhyphen"/>tion: he renews and changes the Soul, and forms Chriſt's glorious Image upon it: where the Spirit Seals, he ſubdues Sin, makes the Heart anew, and enables them he Seals, to caſt off the works of darkneſs, <hi>and put off the old man, after the fleſh, with his deeds, and put on the new man, which, after God, is created in righteouſneſs and true holineſs,</hi> Eph. 4. 22, 23, 24. He Sanctifies them throughout, in Body, Mind and Spirit, 1 <hi>Theſ. 5. 20. and makes them that were darkneſs to be light in the Lord,</hi> Eph. 5. 4, 5. <hi>Ye, were ſometimes dark<g ref="char:EOLhyphen"/>neſs, but now are ye light in the Lord.</hi>
+            </p>
+            <p n="2">2. The Spirit irradiates and clears this up to the Souls of them whom he Seals, that they are San<g ref="char:EOLhyphen"/>ctified, and made holy; that their Hearts are changed, and Grace wrought in them, which was not there before, and that now they
+<pb n="19" facs="tcp:37079:16"/> are new Creatures, being in Chriſt. 2 <hi>Cor. 5. 17. For if any man be in Chriſt, he is a new Creature, old things are done away, and all things are become new.</hi> This the Spirit ſhows to the Soul, in his Sealing Work; and by this, enables Be<g ref="char:EOLhyphen"/>lievers to ſay, doubtleſs thou art our Father, though <hi>Abraham</hi> know us not; or be ignorant of us. <hi>Thou O Lord, art our Father, our Re<g ref="char:EOLhyphen"/>deemer, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Name is from Ever<g ref="char:EOLhyphen"/>laſting,</hi> Iſa. 63. 16. <hi>This God is our God for ever and ever, he will be our guide even unto death,</hi> Pſal. 46. 14. <hi>The Lord is my portion, ſaith my Soul, therefore will I hope in him,</hi> Lam. 3. 24. <hi>My beloved is mine, and I am his,</hi> Cant. 1. 16. Now Believers know this from the Holy Spirit, who clears theſe things to their Souls, when he Seals them.</p>
+            <p n="3">3. The bleſſed Spirit, after all this is done, in order to Sealing,
+<pb n="20" facs="tcp:37079:17"/> he enables the Soul he Soals, to lay hold on, and to apply the precious Promiſes to its ſelf; ſo that when<g ref="char:EOLhyphen"/>ever a Promiſe is read or ſpoken of, the Soul may apply it, and ſay, this is mine, and the other Promiſe is mine, they are a Legacy left me, may the Soul ſay, by my dear Husband, and Head, Chriſt. This Divines call the Formal Seal<g ref="char:EOLhyphen"/>ing of the Spirit. There is none but the Holy Spirit that can thus Seal Believers, <hi>viz.</hi> by clearing up to them their title to, and intereſt in Chriſt, and the Promiſes, as there's. <hi>For he only knows the deep things of God,</hi> 1 Cor. 2. 10. 11. And beſides, 'tis his office to clear and witneſs this to Believers, who is a Spirit of Truth, and therefore he cannot, neither will deceive us, <hi>John</hi> 14. 17. My Beloved, the Spirit's Teſtimony in this, is more than a voice from Heaven, or than if an Angel ſhould come
+<pb n="21" facs="tcp:37079:17"/> and ſay, <hi>Chriſt has ſent me to tell you, That he loves you, and ſhed his blood for you.</hi> This could not ſa<g ref="char:EOLhyphen"/>tisfie as the internal Sealing of the Spirit to the Minds or Souls of Be<g ref="char:EOLhyphen"/>lievers; the other may be a Delu<g ref="char:EOLhyphen"/>ſion, but this of the Spirit is cer<g ref="char:EOLhyphen"/>tain, and may be depended upon. The witneſs of a Man's Spirit may come to a probability, but the wit<g ref="char:EOLhyphen"/>neſs of the Spirit is clear demon<g ref="char:EOLhyphen"/>ſtration. 1 <hi>John 4. 12, 19. No man</hi> (ſaith he) <hi>hath ſeen God at any time. If we love one another, God dwelleth in us, and his love is per<g ref="char:EOLhyphen"/>fected in us: hereby we know that we dwell in him, and he in us:</hi> how? <hi>becauſe he hath given us of his ſpirit.</hi> The Spirit receives of Chriſt's, and gives it to Believers, <hi>John</hi> 16. 18, 19. As it is the Devil's work to caſt in Fears into the Soul, to per<g ref="char:EOLhyphen"/>plex and diſquiet the heart; he be<g ref="char:EOLhyphen"/>ing the red Dragon that diſturbs the Waters of the Saints Peace.
+<pb n="22" facs="tcp:37079:18"/> So it is the Spirit's work to clear things up, to ſettle the Sanctified Soul, and fill it with peace, joy, and comfort, <hi>John</hi> 16. 7. As it is his work to convince of Sin, to Sanctifie, ſo to eſtabliſh, and ſet<g ref="char:EOLhyphen"/>tle the Heart, and give that peace and comfort to it, which none can give, nor take away, <hi>Rom.</hi> 14. 17.</p>
+            <p>The Spirit in this work of Seal<g ref="char:EOLhyphen"/>ing, atteſts and witneſſeth, both <hi>firſt,</hi> to the Doctrine, or Object of Faith, and <hi>ſecondly,</hi> to the infuſed habit of the Grace of Faith in the Soul; of the former he ſaith, this is my word, I indicted it, do you there<g ref="char:EOLhyphen"/>fore believe and imbrace it: of the latter, he ſaith, this is my work within you; this Grace, this Faith, this Love, Patience, Self-denial, is my work in you; I have pro<g ref="char:EOLhyphen"/>duced all theſe things in your Souls. So that (Beloved) this Sealing Work of the Spirit is evermore a<g ref="char:EOLhyphen"/>greeable
+<pb n="23" facs="tcp:37079:18"/> to the written word of God, <hi>Iſa.</hi> 8. 20. What he ſpeaks in his holy Word, and in our Hearts, are all harmonious Teſti<g ref="char:EOLhyphen"/>monies.</p>
+            <p>The Spirit in Sealing Believers, makes not uſe of an audible voice, as to ſay vocally, <hi>Thomas,</hi> or <hi>John,</hi> thy Sins are pardoned, <hi>&amp;c.</hi> nor of immediate and extraordinarily Re<g ref="char:EOLhyphen"/>velations; therefore expect them not; for he makes uſe of the ſpiri<g ref="char:EOLhyphen"/>tual Graces that are wrought in the Soul, and of the precious Pro<g ref="char:EOLhyphen"/>miſes writ in the Word: By theſe means the holy Spirit comforts the Heart, and uſually brings the Soul to reſt and joy.</p>
+            <p>
+               <hi>Secondly,</hi> Shew you, why none are Sealed by the Holy Spirit of Promiſe, till after they do believe in Chriſt. <hi>In whom alſo, after that ye believed, ye were ſealed,</hi> &amp;c.</p>
+            <p>Before I Anſwer directly, or give the Reaſons, let me promiſe this
+<pb n="24" facs="tcp:37079:19"/> one thing, <hi>viz.</hi>
+            </p>
+            <p>That there be many who are in the ſtate of Nature, and have not one dram of Grace in their Souls, nothing but Sin and Cor<g ref="char:EOLhyphen"/>ruption, and yet theſe have, and may have, many falſe hopes, and vain confidences, which will de<g ref="char:EOLhyphen"/>ceive their Souls: you read of the hope of the Hypocrite, and the Houſe which he leans upon, that will fall, and leave him in utter deſpair. <hi>For what is the vain hope and confidence of the Hypocrite, when God ſhall take away his Soul,</hi> Job 8. 13, 14, 15, 13, 16, 27. When theſe poor wretches dye, their vain hopes of Heaven dye with them: many take Preſumption for Aſſurance, and a vain confidence, for well-grounded hopes of Hea<g ref="char:EOLhyphen"/>ven; becauſe they have external Priviledges, and talk of Chriſt, they think all is well, and that
+<pb n="25" facs="tcp:37079:19"/> there needs no more ado. Thus many will go down to Hell with a Lye in their right hand? That it is thus, is clear, from <hi>Matth. 7. 22. Many will ſay to him in that day, Lord, Lord, have we not pro<g ref="char:EOLhyphen"/>pheſied in thy name, and in thy name done many wonderful works, caſt out Devils,</hi> &amp;c. And in <hi>John 8. 54, 55. Of whom ye ſay</hi> (ſaith Chriſt to the <hi>Jews,</hi> that pleaded <hi>Abraham</hi> was their Father, and that they were never in Bondage, <hi>&amp;c.) that he is your God, and yet ye have not known him.</hi> Here this People, you ſee, had grounded Confidences, and falſe Comforts built thereupon. They ſaid, God was their's, and yet they were ignorant of Him, and did not know Him. Oh! tremble at the word of the Lord, and have a care of vain Confiden<g ref="char:EOLhyphen"/>ces, and putting the Lye upon your own Souls, as theſe did. <hi>Paul</hi> tells us of ſome, that went a great
+<pb n="26" facs="tcp:37079:20"/> way, and attained to much, and yet were not Believers, nor Sealed by the Holy Spirit, <hi>Heb.</hi> 6. 4, 5. A ſtartling Word: They were once Inlightened, taſted of the heavenly Gift, were made par<g ref="char:EOLhyphen"/>takers of the Holy Ghoſt, and taſted of the good word of God, and the Powers of the World to come. If theſe fall a way, 'tis im<g ref="char:EOLhyphen"/>poſſible to recover them again, <hi>&amp;c.</hi> Thus (I ſay) Perſons may deceive their Souls, building their hopes and comforts upon ſandy founda<g ref="char:EOLhyphen"/>tions, being fooliſhly confident they ſhall be Saved. But for any, except real Saints and Believers in Chriſt, to have thoſe witneſſing Sealing Teſtimonies of the Spirit, which we have diſcours'd of, and deſcribed to you; I ſay, for any but real Chriſtians to have theſe, is utterly impoſſible, which brings me now to give the Reaſons, why none but real Believers are, or can
+<pb n="27" facs="tcp:37079:20"/> be Sealed by the Spirit of God. And the Reaſons to make it evi<g ref="char:EOLhyphen"/>dent and plain, ſhall be taken.</p>
+            <p>1. From the Author. 2. From the Nature 3. From the Object Matter. 4. From the Mediums. And <hi>Laſtly,</hi> from the great deſign and end of the Holy Spirit in his glorious Sealing Work.</p>
+            <p n="1">1. <hi>Reaſon;</hi> taken from the Au<g ref="char:EOLhyphen"/>thor of this Sealing Work, <hi>viz.</hi> the Spirit of God, who is the Spirit of Holineſs, and Spirit of Truth. So Chriſt calls him, <hi>John 14. 17. I will pray the Father for you, and he ſhall ſend you another Comforter,</hi> &amp;c. <hi>even the Spirit of Truth, who ſhall lead and guide you into all Truth,</hi> John 16. 13, 14. Now he being a Spirit of Holineſs and Truth, he cannot witneſs to a Lye, or give a Teſti<g ref="char:EOLhyphen"/>mony quite contrary to the whole tenour of the Sacred Word of God. <hi>Whoſe word is a word of Truth, and not of Falſhood,</hi> John 17. 17. The
+<pb n="28" facs="tcp:37079:21"/> Spirit Indicted the Scriptures, and they are all like him that is Truth. Now were the Spirit to Seal Un<g ref="char:EOLhyphen"/>believers, he would give a Teſti<g ref="char:EOLhyphen"/>mony quite croſs to the Word of Truth, which he will never do. The Elect themſelves, while in a natural ſtate, have no actual Inte<g ref="char:EOLhyphen"/>reſt in Chriſt, nor the Promiſes, therefore, while in that ſtate, they can have none Sealed to them. They that have no actual Intereſt in Chriſt, and in the Promiſes of the Goſpel, cannot be Sealed by the Spirit of Promiſe. We muſt (my Beloved) be Saints, before we can be known to be ſo: a Man muſt be in Chriſt before he can know he is in Chriſt; and a Be<g ref="char:EOLhyphen"/>liever, before he can know he is a Believer, and that he has Faith in Chriſt.</p>
+            <p n="2">2. <hi>Reaſon</hi> is taken from the na<g ref="char:EOLhyphen"/>ture of this work of Sealing: If you conſider the nature of it, it cannot
+<pb n="29" facs="tcp:37079:21"/> be, that Unbelievers ſhould be Sealed. Aſſurance is produced in the Souls of Believers, by the reflexive acts of their Faith: the Spirit in Sealing Believers, helps them to reflect upon what he hath former<g ref="char:EOLhyphen"/>ly done, and wrought in their Souls. 1 <hi>John 2. 3. Hereby</hi> (ſaith <hi>John) we know,</hi> (that is, we Believ<g ref="char:EOLhyphen"/>ers, that have cloſed in with Chriſt, and have him to plead for us, <hi>&amp;c.) that we know him.</hi> Now to know that we know is a reflex Act, (as one ſays;) and there can be no reflex Acts, where there is no di<g ref="char:EOLhyphen"/>rect Acts of Faith; it is impoſſible that there ſhould be a reflex Act, before a direct Act of Faith. No Man can have the evidence of his Faith, before the habit of it be in<g ref="char:EOLhyphen"/>fuſed, and the vital act firſt per<g ref="char:EOLhyphen"/>formed: therefore deceive not your Souls with vain hopes of Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p n="3">
+               <pb n="30" facs="tcp:37079:22"/>3. <hi>Reaſon</hi> of this is taken from the object Matter, to which the Spirit Seals; and that you will find to be his own Sanctifying Operations upon the Heart, or in the Hearts of thoſe that he Seals; and conſequently, to their great priviledges and advantages in Chriſt Jeſus: the Spirit witneſſes to Believers, that they are Chriſt's and that he hath loved them with an everlaſting Love, and ſhed his precious Blood for them, <hi>Rev.</hi> 1. 5, 6. This the Spirit Seal'd to <hi>Paul, Gal. 2. 20. I am crucified with Chriſt, nevertheleſs I live, yet not I, but Chriſt liveth in me. And the life</hi> ſaith he) <hi>that I live in the fleſh, is by the faith of the Son of God, who hath loved me, and given him<g ref="char:EOLhyphen"/>ſelf for me.</hi> How did <hi>Paul</hi> know this, but by the ſtill voice of the Spirit, who diſcovered in particu<g ref="char:EOLhyphen"/>lar Chriſt's love to him? The Spirit in Sealing Believers, doth atteſt,
+<pb n="31" facs="tcp:37079:22"/> 
+               <hi>That Chriſt abideth in them, and that they are the Sons of God,</hi> Rom. 8. 16. 1 John 3. 24. <hi>Hereby we know that he</hi> (viz. Chriſt) <hi>abideth in us, by the Spirit which he hath given to us.</hi> Now no ſuch thing as this can be Sealed to us, until we be<g ref="char:EOLhyphen"/>lieve; becauſe neither our Adopti<g ref="char:EOLhyphen"/>on, nor Sanctification is before Faith, <hi>John 1. 12. Gal.</hi> 3. 26. When Perſons believe truly in Jeſus Chriſt, then are they actually Sons of God, and really Sanctified, and not before; for our Hearts are ſaid to be purified by, or through Faith, <hi>Acts</hi> 15. 9. Therefore Perſons be<g ref="char:EOLhyphen"/>ing unſanctified, cannot be Sealed, before Faith in the Blood of Chriſt.</p>
+            <p n="4">4. <hi>Reaſon</hi> it is thus: If you con<g ref="char:EOLhyphen"/>ſider the Mediums or Inſtruments, made uſe of in this work of Seal<g ref="char:EOLhyphen"/>ing: The Spirit of God in Sealing his People, makes uſe of the great and precious Promiſes; therefore
+<pb n="32" facs="tcp:37079:23"/> he is called a Spirit of Promiſe in our Text: He is not ſo called only becauſe he is the Spirit promiſed, <hi>Ezek.</hi> 36. 27. but ſecondly, be<g ref="char:EOLhyphen"/>cauſe he opens and applies the Pro<g ref="char:EOLhyphen"/>miſes to Believers, which he doth when they believe, and are united to Chriſt, and not before: The Spirit clears the Promiſes to their Underſtandings, and by Faith en<g ref="char:EOLhyphen"/>ables them, to apply them to their own Souls; but ſtill remember, 'tis after Faith; for 'till a Perſon is united to Chriſt, he has no true ſaving right to the Promiſes; they are Childrens Bread, and Dogs that are without muſt not meddle with them, <hi>Matth. 15. 26, 27. Rev.</hi> 22. 15. But</p>
+            <p>
+               <hi>Fifthly.</hi> The <hi>Fifth Reaſon</hi> is taken from the great End and De<g ref="char:EOLhyphen"/>ſign of the Spirit in this Sealing Work, which is, to ſecure to the believing Soul its Peace, pardon of Sin, and eternal Salvation with
+<pb n="33" facs="tcp:37079:23"/> Chriſt in Glory: The end of our Faith, we read, is the Salvation of our Souls; and this is the end of the Spirit's Sealing, to ſecure it to the Soul, 1 <hi>Pet.</hi> 1. 9, 10. The Spirit of God is ſaid, <hi>Eph. 4. 30. To Seal Believers to the day of Re<g ref="char:EOLhyphen"/>demption;</hi> that is to their compleat Salvation in Chriſt. We are all by nature in bondage to Sin and Corruption; and we are Redeem<g ref="char:EOLhyphen"/>ed from Sin by the <hi>firſt</hi> coming of Chriſt, <hi>Matth. 1. 21. Tit.</hi> 2. 14. And ſhall be fully and perfectly Redeemed from all Sin at his <hi>ſe<g ref="char:EOLhyphen"/>cond.</hi> Now, in the mean time, 'till this be, God would have his Peo<g ref="char:EOLhyphen"/>ple to be aſſured of it before-hand, therefore he hath given his Spirit to Seal them up to the Day of Re<g ref="char:EOLhyphen"/>demption. Now, my Beloved, it is as equally impoſſible for Un<g ref="char:EOLhyphen"/>believers, as ſuch, to be Sealed, as Saved. And the Word ſaith, <hi>Matth, 16. 16. He that believeth</hi>
+               <pb n="34" facs="tcp:37079:24"/> 
+               <hi>not ſhall be damned.</hi> And, <hi>John</hi> 8. 24. Says Chriſt to the Jews, <hi>If you believe not, ye ſhall die in your ſins.</hi> Thus you ſee the Doctrine is clear, That the great priviledge of Seal<g ref="char:EOLhyphen"/>ing by the Spirit follows the Act of Believing, and goes not before it. I ſhould have ſhown you now,</p>
+            <p>
+               <hi>Thirdly,</hi> Whether all Believers are Sealed by the Holy Spirit of Promiſe; but our time is gone; therefore I ſhall ſum up all with a ſhort Word of <hi>Application;</hi> and leave what has been ſaid to the Bleſſing of God.</p>
+            <p n="1">1. <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> If none are Sealed, nor can be Saved, until they be<g ref="char:EOLhyphen"/>lieve in Chriſt, then examine what your ſtate is, how it ſtands be<g ref="char:EOLhyphen"/>tween God and your precious Souls; if you find it good, bleſs God, who has called you by his Grace, and Sealed you by his holy
+<pb n="35" facs="tcp:37079:24"/> Spirit: if you find it bad with you upon tryal, that God and your Souls are ſtrangers, then cry to him earneſtly, through Chriſt, to open your Eyes, and ſhew you your ſtate and condition, that you may not live and dye ſtrangers to him; ſay, as the blind Men, Lord we would receive our ſight, we would have our Underſtandings opened and illuminated; Oh! thou <hi>that commandedſt the Light to ſhine out of darkneſs, ſhine into our Souls, and give us the Light of the Know<g ref="char:EOLhyphen"/>ledge of the Glory of thy ſelf, in the face of Jeſus Chriſt,</hi> 2 Cor. 4. 4, 6. Give us to ſee our ſtate and need of Chriſt, and <hi>ſave us Lord, or we ſhall periſh.</hi> Say, Lord take away ſin, and receive me graciouſly into thy favour, <hi>and our Lips ſhall praiſe thee,</hi> Hoſ. 14. 2, 3. Give us Chriſt or we dye. Thus be importunate with God, and give him no reſt, for 'tis for your Lives.</p>
+            <p n="2">
+               <pb n="36" facs="tcp:37079:25"/>2. <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> Be exhorted to theſe <hi>three things.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Not to quench the Spirit. Oh! comply ſweetly with all its motions, and hearken to all his calls. 1 <hi>Theſ. 5. 20. Quench not the Spirit.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Grieve not the Holy Spirit in any wiſe; there is a great reſpect due to the Spirit, for doing ſuch a gracious and glorious work as Sealing is; ſee then that you grieve him not, but in all things endeavour to pleaſe him, ſo that he may delight to go on in this bleſſed work, that he hath pleaſed to take upon him: beware of Pride, Paſſion, Envy, and all Sin that grieves the Spirit. Oh! grieve not the holy and good Spirit of God, <hi>whereby ye are ſealed to the day of redemption,</hi> Epheſ. 4. 30.</p>
+            <pb n="37" facs="tcp:37079:25"/>
+            <p>
+               <hi>Thirdly,</hi> Bleſs God that he has given his good Spirit to any of you, to cauſe you to walk in his <hi>Sta<g ref="char:EOLhyphen"/>tutes, to keep his Judgments, and do them,</hi> Ezek. 36. 27. As alſo, to clear up his Love in Chriſt to your Souls.</p>
+            <trailer>So much for this time.</trailer>
+         </div>
+         <div n="2" type="sermon">
+            <pb n="38" facs="tcp:37079:26"/>
+            <head>Believers Sealed BY THE Spirit of Promiſe.</head>
+            <epigraph>
+               <bibl>Second Sermon, from <hi>Epheſ.</hi> 1. the latter part of the 13 <hi>verſe.</hi>
+               </bibl>
+               <q>
+                  <hi>In whom alſo, after that ye believed, ye were Sealed with the Holy Spirit of Promiſe.</hi>
+               </q>
+            </epigraph>
+            <p>BEloved, we began the laſt Day with theſe Words, and after we had opened, and given the Analyſis of them, we ſtated this Doctrinal Concluſion, <hi>viz.</hi>
+            </p>
+            <pb n="39" facs="tcp:37079:26"/>
+            <p>
+               <hi>Doct.</hi> That the great privi<g ref="char:EOLhyphen"/>ledge of Sealing by the Spirit, is after the duty and act of Believ<g ref="char:EOLhyphen"/>ing.</p>
+            <p>For the opening of this weighty Point, we have ſhown,</p>
+            <p>
+               <hi>Firſt,</hi> What this Sealing work of the Spirit is, and how it is per<g ref="char:EOLhyphen"/>formed by him in the Soul. And,</p>
+            <p>
+               <hi>Secondly,</hi> We have given the Reaſons why none can be truly Sealed by the Spirit until they be<g ref="char:EOLhyphen"/>lieve in Chriſt Jeſus.</p>
+            <p>Now, <hi>Thirdly,</hi> we ſhall proceed to ſhow you, whether all Believers are Sealed by the Spirit of Promiſe or no.</p>
+            <p>This is a weighty caſe, and re<g ref="char:EOLhyphen"/>quires a better Judgment than mine to diſcuſs it; but as the Lord ſhall help, I ſhall ſay ſomething at this time in Anſwer to it, <hi>viz.</hi> Whether all Believers are Sealed
+<pb n="40" facs="tcp:37079:27"/> by the Spirit of God, or no. For the opening of it, (that you may rightly underſtand, and, if the Lord pleaſe, be eſtabliſhed and comforted) I muſt make ſome Di<g ref="char:EOLhyphen"/>ſtinctions that ought to be made, in ſo great a Matter and Concern as this is.</p>
+            <p>The Diſtinctions I ſhall make are theſe three, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> The different kinds of the Spirit's Sealing.</p>
+            <p>
+               <hi>Secondly,</hi> The times and ſeaſons thereof. And,</p>
+            <p>
+               <hi>Thirdly,</hi> The ſeveral ways and manners of this Sealing.</p>
+            <p>
+               <hi>Firſt,</hi> We muſt diſtinguiſh the different kinds of the Spirit's Seal<g ref="char:EOLhyphen"/>ing: the Sealing Work of the Spi<g ref="char:EOLhyphen"/>rit is not of one kind, nor to one and the ſame uſe and end.</p>
+            <p>There is (Beloved) a two-fold Seal of the Holy Spirit.</p>
+            <pb n="41" facs="tcp:37079:27"/>
+            <p>
+               <hi>Firſt,</hi> An objective Seal, which Seal diſtinguiſhes the Perſons that have it, from other Perſons: And,</p>
+            <p>
+               <hi>Secondly,</hi> There is a formal Seal, by, or in which Sealing, the Spirit clears up, and ratifies the Soul's Intereſt in Chriſt, and Right to Heaven and Salvation, by and through him.</p>
+            <p>
+               <hi>Firſt,</hi> The objective Sealing of Perſons, the Spirit doth, in Sancti<g ref="char:EOLhyphen"/>fying and making them holy, that he Seals; who before were filthy and unholy; the Spirit changes the Heart, renews the Nature, and forms Chriſt's Image in the Souls of them he Seals.</p>
+            <p>When the Spirit Seals Perſons objectively, he really and truly ſanctifies them by the Infuſion of his Grace; and thus he ſeals us in way of diſtinction from other Per<g ref="char:EOLhyphen"/>ſons.</p>
+            <pb n="42" facs="tcp:37079:28"/>
+            <p>And this is one end of his glori<g ref="char:EOLhyphen"/>ous ſealing Work: before we pro<g ref="char:EOLhyphen"/>ceed further, pray mind theſe five things.</p>
+            <p>
+               <hi>Firſt,</hi> In the Decree of God's Election there was a difference between Believers and others, even from Eternity, before all Time: There is a privy Seal of Predeſti<g ref="char:EOLhyphen"/>nation, that is only known to God himſelf. 2 <hi>Tim. 2. 19. The Lord knoweth them that are his.</hi> By Election and Choice in Chriſt, be<g ref="char:EOLhyphen"/>fore the <hi>foundation of the World,</hi> Eph. 1. 4. This knowledge of God of us, is carried ſecret, as wa<g ref="char:EOLhyphen"/>ter that runs under the ground, un<g ref="char:EOLhyphen"/>til by vocation he calls us from the reſt of Mankind. God has choſe a certain number in Chriſt, which ſhall certainly be ſaved: <hi>For the foundation of God ſtandeth ſure,</hi> viz. <hi>of Election, having this Seal,</hi> &amp;c.</p>
+            <pb n="43" facs="tcp:37079:28"/>
+            <p>
+               <hi>Secondly,</hi> In the purpoſe and in<g ref="char:EOLhyphen"/>tention of the death of Chriſt, there was alſo a difference between the Elect, and other Men; for though all have a common benefit by Chriſt's death, yet he ſhed not his blood for all, but for ſome, even for all thoſe that the Father had given him, and for whom he co<g ref="char:EOLhyphen"/>venanted with his Father, to ſatis<g ref="char:EOLhyphen"/>fie Juſtice in their ſtead: God the Father, and Chriſt the Son, ſtruck hands together about the Redem<g ref="char:EOLhyphen"/>ption of Sinners; the Father gave out of the World to Chriſt, a cer<g ref="char:EOLhyphen"/>tain number that he would have ſaved; and the Son ingaged with the Father for their Redemption, and to bring them to Glory, <hi>Iſa. 59. 1. to 6. John</hi> 6. 38, 39. Now dare any ſay, That God gave all the World to Chriſt, and that Chriſt did covenant with his Fa<g ref="char:EOLhyphen"/>ther, to ſave all? If all are given to Chriſt, and he is become Surety
+<pb n="44" facs="tcp:37079:29"/> to his Father for all, then all ſhall be ſaved. For God has promiſed to Chriſt, <hi>That he ſhall ſee his Seed, and ſee of the travail of his Soul, and be ſatisfied.</hi> Iſa. 73. 8, 9, 11, 12. And in the 10 <hi>v.</hi> it is ſaid, <hi>That the pleaſure of the Lord ſhall proſper in his hands.</hi> It is the pleaſure of God thoſe Chriſt dyed for ſhould be ſaved, and they ſhall, there<g ref="char:EOLhyphen"/>fore Chriſt dyed not for all alike: beſides, Chriſt prayed not for all, therefore he dyed not for all: for ſurely Chriſt will not ſtick to ſpend his breath for them, for whom he ſpent his blood. <hi>John 17. 6, 9, 15. I pray not for the World, but for them which thou haſt given me out of the World, thine they were, but thou gaveſt them me,</hi> &amp;c. Thus by the way you ſee, that in regard of Chriſt's death, <hi>viz.</hi> the Intentionality of it, there was a difference between the Elect, and others: For though all Men have
+<pb n="45" facs="tcp:37079:29"/> a common, yet 'tis only the Elect who believe, that have a ſpecial, real benefit by it. But,</p>
+            <p>
+               <hi>Thirdly,</hi> Yet know, That all this while, tho' there be a differ<g ref="char:EOLhyphen"/>ence between the Elect and others in the Election of God, and death of Chriſt, yet there was no perſon<g ref="char:EOLhyphen"/>al, actual difference between them and others, until they are ſanctifi<g ref="char:EOLhyphen"/>ed and renewed, and ſo are di<g ref="char:EOLhyphen"/>ſtinguiſhed from other Men: The Elect themſelves (conſidered in <hi>Adam)</hi> are Children of wrath, even as others, till they are called, and believe, <hi>Eph.</hi> 2. 2, 3. The Devil rules in them, and they are kept in blindneſs by him, as well as others, 2 <hi>Cor.</hi> 4. 4, 5. They are affar off from God, <hi>Eph.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 13. and are wallowing in their Blood, to the loathing of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Perſons, till God ſay to them, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>ye, Ezek.</hi> 16. 4, 5, 6. They are born in ſin, and polluted by it, even as others,
+<pb n="46" facs="tcp:37079:30"/> till God ſprinkle their Hearts with Chriſt's Blood, <hi>Ezek.</hi> 36. 24, 25. They are as vile as the vileſt, 1 <hi>Cor. 6. 11. Such were ſome of you,</hi> viz. <hi>Thieves, Covetous, Lyars, Swear<g ref="char:EOLhyphen"/>ers,</hi> &amp;c. <hi>but now ye are waſhed, now ye are ſanctified by the Spirit of our God.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Know that the Spirit of God in this objective Seal, <hi>viz.</hi> Sanctification, makes a real differ<g ref="char:EOLhyphen"/>ence in the ſtates and tempers of thoſe that he thus Seals. For (ſays <hi>Paul) If any Man be in Chriſt, he is a new Creature, old Paſſions and Corruptions are ſubdued in the Soul, and all things are become new.</hi> And the Spirit alſo manifeſts that diffe<g ref="char:EOLhyphen"/>rence, which God in his chuſing, made between them he ſanctifies, and others, 1 <hi>Theſ. 1. 4, 5. Bre<g ref="char:EOLhyphen"/>thren, ye know your Election of God.</hi> But how did they know it? <hi>The Goſpel</hi> (ſays he) <hi>did not come in Word only, but in power, and in much</hi>
+               <pb n="47" facs="tcp:37079:30"/> 
+               <hi>aſſurance of joy in the Holy Ghoſt.</hi> When the report of God is believ<g ref="char:EOLhyphen"/>ed, and the arm of the Lord re<g ref="char:EOLhyphen"/>vealed to any, then they ſee that Eternal Love that God bore to them in Chriſt, before the World was. Vocation in time, is a ſign of Election from Eternity: For thoſe that God has Elected in Chriſt, ſhall certainly be called by the Spirit, out of Darkneſs into Light.</p>
+            <p>
+               <hi>Fifthly,</hi> Know further, that all this while, tho' a Perſon be ſancti<g ref="char:EOLhyphen"/>fied, which is the objective Seal of the Spirit, yet he may not be formally Sealed; <hi>i. e.</hi> he may not have his change of ſtate, and inte<g ref="char:EOLhyphen"/>reſt in Chriſt, fully ſealed up to him: a Man's Sanctification may be very doubtful to himſelf, and he may labour under many and great fears about it, whether he is changed or no, be in Chriſt or no; ſo that this is one diſtinction
+<pb n="48" facs="tcp:37079:31"/> we muſt make, the kinds of the Spirit's ſealing; a Man may have the objective Seal, but not the formal Seal, preſently; a Letter may be writ ſometime before it is Sealed; the Spirit may work Grace in the Soul ſome time, be<g ref="char:EOLhyphen"/>fore he ſets his Seal to it. But,</p>
+            <p>
+               <hi>Secondly,</hi> We muſt diſtinguiſh the times and ſeaſons of the Spirit's Sealing; for there be various times of his ſealing Believers; as the kinds of the Spirit's ſealing are dif<g ref="char:EOLhyphen"/>ferent, ſo the ſeaſons wherein he doth this work, are many and va<g ref="char:EOLhyphen"/>rious: As,</p>
+            <p>
+               <hi>Firſt,</hi> Some Perſons (though I think but few) are ſealed imme<g ref="char:EOLhyphen"/>diately upon their Believing in, and cloſing with Chriſt by Faith; they are no ſooner Converted, but Sealed; but this is very rare, and not common; here and there one are ſealed immediately by the Spi<g ref="char:EOLhyphen"/>rit upon Converſion: I heard cre<g ref="char:EOLhyphen"/>dibly
+<pb n="49" facs="tcp:37079:31"/> of One that was convinced of Sin, ſaw himſelf loſt and un<g ref="char:EOLhyphen"/>done, and thereupon having a ſight of Chriſt, fled to him for Pardon, Peace, Life, and all Grace; and was enabled to cloſe in with Chriſt by Faith; and had alſo thereupon, the Love of God, and certainty of his being Saved, Seal<g ref="char:EOLhyphen"/>ed up by the Spirit to him, and all in an Hours time: many Mini<g ref="char:EOLhyphen"/>ſters, and good Chriſtians, were amazed at it, and afraid it was a Deluſion; but by cloſe walking with God, and a pious Converſa<g ref="char:EOLhyphen"/>tion, he declared it was God's work in him. The prodigal Son returning home to his Father, was thus immediately Sealed; for he was entertained with a fatted Calf, and ſweet Muſick; <hi>and his Father ran, and fell on his neck, and kiſſed him,</hi> Luke 15. 23, 24, 25. But all Believers find not this preſently, as ſoon as they are Converted, nor
+<pb n="50" facs="tcp:37079:32"/> for ſome time after; 'tis but few that are thus Seal'd by the Spirit.</p>
+            <p>
+               <hi>Secondly, Seaſon.</hi> The Spirit Seals in times of great and eminent com<g ref="char:EOLhyphen"/>munion with God, through Chriſt. Times of Communion, are ſealing times: when the Soul ſees and in<g ref="char:EOLhyphen"/>joys God, taſtes of his matchleſs Love, and the ſweet kiſſes of his Mouth, <hi>which are better than Wine, Cant.</hi> 1. 2. Then there is much Joy; and great out-lets of Peace and Comfort to that Soul: When God meets, and ſhines upon Be<g ref="char:EOLhyphen"/>lievers in a Duty, and in an Ordi<g ref="char:EOLhyphen"/>nance, then he makes their ſtate very obvious and clear to them; then he baniſhes away all fears and doubts in their Souls, and makes them rejoice with greater and bet<g ref="char:EOLhyphen"/>ter Joy, than the World can af<g ref="char:EOLhyphen"/>ford, ſaith <hi>David,</hi> who was a Man much in Communion with God, <hi>Pſal.</hi> 4. 7. Thou haſt put more joy and gladneſs into my
+<pb n="51" facs="tcp:37079:32"/> heart, than when their Corn, and Wine, and Oil increaſe: But how was this? no otherways than by God's lifting up the Light of his Countenance upon his Soul, which will gladen the heart indeed.</p>
+            <p>
+               <hi>Thirdly,</hi> Many have been ſeal<g ref="char:EOLhyphen"/>ed, upon ſome great and eminent Tryals and Dangers, that they have been expoſed to, for Chriſt's ſake, and his Goſpel. Many Per<g ref="char:EOLhyphen"/>ſons, in times of eminent ſufferings for Jeſus Chriſt (wherein they have carried it with great meek<g ref="char:EOLhyphen"/>neſs, patience, and ſelf-denial) are ſealed; they have much com<g ref="char:EOLhyphen"/>fort and aſſurance given to them. <hi>Paul</hi> tells us, 2 <hi>Cor. 1. 4, 5. That as their ſufferings did abound for Chriſt, ſo their conſolations did a<g ref="char:EOLhyphen"/>bound in him.</hi> For as the ſuffer<g ref="char:EOLhyphen"/>ings of Chriſt abound in us, ſo our conſolation alſo aboundeth by, or, in Chriſt. And whether we be afflicted, it is for our Conſola<g ref="char:EOLhyphen"/>tion,
+<pb n="52" facs="tcp:37079:33"/> 
+               <hi>&amp;c.</hi> How were the Martyrs Sealed many times in the depth of their Suffering for Chriſt his Cauſe? one cried out when he was going to dye; Oh! <hi>Auſtin, he is come, he is come;</hi> meaning Chriſt, who then met him, and by his Spirit Sealed up his Love to him. Another, when in the Flames, injoy'd ſo much of God, That he ſaid, <hi>He was as if he were in a bed of down:</hi> He ſweetly con<g ref="char:EOLhyphen"/>vers'd with God in the Flames.</p>
+            <p>
+               <hi>Fourthly,</hi> The Spirit uſually Seals Perſons, after a dark day and time of deſertion, when they have been clouded, and gone mourning for lack of the Sun, <hi>Job</hi> 30. 18. When they have had hard and ſore conflicts with Satan, and their own baſe Luſts. Thus ſome read, and underſtand that Text, <hi>Revel. 2. 17. To him that over<g ref="char:EOLhyphen"/>cometh will I give to eat of the hid<g ref="char:EOLhyphen"/>den Manna; and I will give him a</hi>
+               <pb n="53" facs="tcp:37079:33"/> 
+               <hi>white Stone, and in that Stone a new Name written,</hi> &amp;c. Theſe are ſweet words; in which obſerve,</p>
+            <p>
+               <hi>Firſt,</hi> The Perſons to whom Chriſt makes this Promiſe, <hi>viz.</hi> to overcomers; who having com<g ref="char:EOLhyphen"/>bated with Sin, and Satan, and the World, are Conquerors through him. <hi>To him that over cometh,</hi> &amp;c. But,</p>
+            <p>
+               <hi>Secondly,</hi> Obſerve here a three<g ref="char:EOLhyphen"/>fold Promiſe made by Chriſt, to ſuch Souls as are true Victors over Sin, Satan, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Firſt, I will give him to eat of the hidden Manna.</hi> Manna is the Corn and Bread of Heaven, called <hi>An<g ref="char:EOLhyphen"/>gels Food, Pſal.</hi> 78. 24. This was the Bread that God gave <hi>Iſrael</hi> in the <hi>Wilderneſs;</hi> ſome of which was put in a Pot, and laid up be<g ref="char:EOLhyphen"/>fore the Teſtimony, <hi>Exod.</hi> 16. 33, 34. By this hidden Manna here, we are to underſtand Jeſus Chriſt, who is the Bread of Life (ſo cal<g ref="char:EOLhyphen"/>led)
+<pb n="54" facs="tcp:37079:34"/> 
+               <hi>that came down from Heaven; whoſoever eats,</hi> by Faith, <hi>of it, ſhall never dye,</hi> that is, not Eternally, <hi>John</hi> 6. 48, 49, 50, 59. What can Chriſt give more than himſelf, and the inward ſecret Communications of his Love and Grace, which are hid and laid up in Chriſt, for all them that do truly believe in him? By theſe he feeds and ſtrengthens the Souls of his People.</p>
+            <p>
+               <hi>Secondly,</hi> A white Stone. <hi>And I will give to him a white Stone,</hi> &amp;c. There was among the <hi>Romans</hi> a two-fold uſe of the white Stone, ſaith Reverend Mr. <hi>Knowles,</hi> now with God.</p>
+            <p>
+               <hi>Firſt,</hi> He that was a Victor, and had overcome in their <hi>Olym<g ref="char:EOLhyphen"/>pick Games,</hi> had a white Stone given him, as a badge and token of Honour and Victory: Thus Je<g ref="char:EOLhyphen"/>ſus Chriſt will give to his People, that through him overcome (by wreſtling with Sin, the Devil, and
+<pb n="55" facs="tcp:37079:34"/> the World, <hi>Eph. 6. 12, 13.) a Crown of Glory:</hi> They ſhall ſtand before the Throne with Crowns on their Heads, and Palms in their Hands, as tokens and ſigns of ho<g ref="char:EOLhyphen"/>nour and victory, <hi>Revel. 7. 9, 10. 2. 10. Be thou faithful unto death, and I will give thee a Crown of Life.</hi> Chriſt gives to his a Title to the Crown of Heaven here; ſo that tho' the Saints have not a Crown in Life, yet they are Heirs of a Crown of Life, which Chriſt will give to them. There is a Crown of Righteouſneſs for all them that are in Chriſt ſavingly, and that long for, and love his appear<g ref="char:EOLhyphen"/>ing.</p>
+            <p>
+               <hi>Secondly,</hi> He that being accuſed of any crime in their Courts of Judicature, was found innocent, and ſo was acquitted of his Crime, had a white Stone given him, as a ſign of abſolution. All Believers are acquitted and diſcharged thro'
+<pb n="56" facs="tcp:37079:35"/> Chriſt here, he having <hi>ſatisfied di<g ref="char:EOLhyphen"/>vine Juſtice for them,</hi> Rom. 8. 33. And they ſhall have a publick Ab<g ref="char:EOLhyphen"/>ſolution in the day of Judgment, before Angels and Men, <hi>Rev.</hi> 20. 11, 12. Chriſt at that Day will fully and openly acquit his own People, and ſay, <hi>Enter now into the Joy of your Lord.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> In this white Stone, Chriſt promiſeth to Overcomers, <hi>a new Name written,</hi> which no Man knows but him that receiv<g ref="char:EOLhyphen"/>eth it: by which is meant ſome ſpiritual dignity and honour, that Chriſt will confer on them that believe in him, <hi>Iſa. 62. 2, 3. They ſhall be made partakers of the Divine Nature,</hi> 2 Pet. 1 4. And have the Communications of his ſaving Graces, and the indwelling Pre<g ref="char:EOLhyphen"/>ſence of his Spirit; the witneſs and ſealing Teſtimony of which Holy Spirit, is <hi>this new Name in the white Stone, which no Man knoweth</hi>
+               <pb n="57" facs="tcp:37079:35"/> 
+               <hi>but he that receiveth it,</hi> 1 Cor. 2. 12. The Spiritual Senſes (ſays one) of the new Man, is only capable to know and underſtand the Di<g ref="char:EOLhyphen"/>vine nature of Chriſt's new name, written in the white Stone of Ab<g ref="char:EOLhyphen"/>ſolution, pardon of Sin, and the gracious Promiſes of Eternal Life. This new Name is Chriſt's own Hand-writing, and none can read it, but ſuch as are ſpiritually taught by Chriſt: The natural Man, that is, the unconverted Man, receiveth not the things of the Spirit, becauſe they are fool<g ref="char:EOLhyphen"/>iſhneſs to him; and he knoweth them not, becauſe they are ſpiri<g ref="char:EOLhyphen"/>tually diſcerned; they can't be ſeen with a blind Eye.</p>
+            <p>
+               <hi>Fifth Seaſon</hi> is, When they die. Dying times are Sealing times to many Believers: many Chriſtians here walk in the dark, and have their whole Lives, as it were, like that Day ſpoken of, and deſcribed
+<pb n="58" facs="tcp:37079:36"/> by the Prophet, <hi>Zech.</hi> 14. 17. A Day that is neither dark nor light. Some injoy more of God, than o<g ref="char:EOLhyphen"/>thers do, and are Sealed in a grea<g ref="char:EOLhyphen"/>ter degree. And as for thoſe, whoſe Life is a Life between hopes and fears, they ſhall more or leſs, have an Evening time of Light and Joy; God that has pro<g ref="char:EOLhyphen"/>miſed to be with his Living, will not forſake them utterly when dy<g ref="char:EOLhyphen"/>ing: he will not be a ſtranger, much leſs a Terror to them. Many have lived in the dark; and when they have died, they have ſeen God's ſweet Face, and have had his Love ſealed up to their Souls. When all comforts are gone, then God ſends his to them: when their outward Appetite fails, then God feeds them with ſpiritual hidden Manna: though all God's Children have not joy and aſſu<g ref="char:EOLhyphen"/>rance alike, when they dye, yet they all have joy, and are ſealed
+<pb n="59" facs="tcp:37079:36"/> more or leſs. For as the wicked have ſome apprehenſions of Hell and Wrath in their Conſciences, which makes them afraid to dye, (as one cried out, <hi>I am ſo ſinful, that I cannot dye;</hi> and ſaid ano<g ref="char:EOLhyphen"/>ther, <hi>I have lived in care, and now dye in doubt; for whither I am going I cannot tell.)</hi> So the Godly have ſome fore-taſtes of God's Love and Favour, when they dye. Though 'tis true, their Diſeaſes may be ſuch, and their Animal Spirits ſo oppreſſed, that they cannot ex<g ref="char:EOLhyphen"/>preſs what they feel. Good <hi>Jacob</hi> (ſaith one) laid aſleep upon a ſtone, when he ſaw a Viſion, <hi>Gen.</hi> 28. 7, 8, 9. So the Saints, when they lay themſelves down to ſleep the ſleep of death, they have often a Viſion from God; they ſee the light of his countenance, and have his Love ſealed up to them for ever: Now they deſire, with good old <hi>Simeon, Luke</hi> 2. 30, 31. <hi>To</hi>
+               <pb n="60" facs="tcp:37079:37"/> 
+               <hi>be gone, and depart in Peace, for their Eyes have ſeen his Salvation.</hi>
+            </p>
+            <p>
+               <hi>Third Diſtinction.</hi> We muſt di<g ref="char:EOLhyphen"/>ſtinguiſh the ſeveral ways and manners of the Spirit's Sealing: As,</p>
+            <p>
+               <hi>Firſt,</hi> Some are extraordinary and immediate, given and vouch<g ref="char:EOLhyphen"/>ſafed to ſome only; and that at ſpecial times: thus <hi>Zacheus</hi> was Sealed, <hi>Luke 19. 9. Come down</hi> (ſays Chriſt to him) <hi>This Day is Salvation come to thine Houſe.</hi> And that Man was thus Sealed, <hi>Matth.</hi> 9. 2. to whom Chriſt ſaid, <hi>Son be of good chear, thy ſins are forgiven thee.</hi> Theſe immediate ways are now ceaſed; ſo that no Man can expect now, by any New Re<g ref="char:EOLhyphen"/>velation, or Sign from Hea<g ref="char:EOLhyphen"/>ven, by any extraordinary Inſpi<g ref="char:EOLhyphen"/>ration, or Voice, to have his Sal<g ref="char:EOLhyphen"/>vation Sealed up to him; but he muſt look for it in God's ordinary way, <hi>viz.</hi> by ſearching of the word, <hi>John 5. 39. examining of</hi>
+               <pb n="61" facs="tcp:37079:37"/> 
+               <hi>his own heart,</hi> 2 Cor. 13. 5. And waiting upon God in Prayer, and in other Ordinances, <hi>Iſa.</hi> 40. 29, 30. I have read of one who had been long upon the borders of Diſpair, and at laſt he was ſweet<g ref="char:EOLhyphen"/>ly aſſured, and Sealed; being ask<g ref="char:EOLhyphen"/>ed how; he anſwered not by any new Revelation, or extraordinary Voice from Heaven, but by ſub<g ref="char:EOLhyphen"/>jecting his Underſtanding to, and comparing his heartwith the word.</p>
+            <p>Thus having made theſe Di<g ref="char:EOLhyphen"/>ſtinctions, for your clear under<g ref="char:EOLhyphen"/>ſtanding the Caſe, give me leave to Anſwer all out of doubt, from what has been ſaid; And that briefly in theſe three things.</p>
+            <p>
+               <hi>First,</hi> Conſider, that though all Believers have not the Formal, yet they have the Objective Seal of the Spirit, they are all Sancti<g ref="char:EOLhyphen"/>fied, and made Holy, by the ho<g ref="char:EOLhyphen"/>ly Spirit of Promiſe; true Grace is infuſed, and imprinted in their
+<pb n="62" facs="tcp:37079:38"/> Souls; though the formal Seal of the Spirit may not yet be ſet to it. There may be Fire put in, on the <hi>Hearth.</hi> Though you cannot well ſee it; there may be Grace in the Heart, and ſpiritual life, though it cannot be well diſcerned, becauſe of the many Corruptions that be yet in the Heart. You read, <hi>Matth.</hi> 12. 20. of the ſmoaking. Flax, and bruiſed Reed: Grace may be true, though weak; and a Man may be in Chriſt, though it be not clear to him; all Believers are Sanctifi<g ref="char:EOLhyphen"/>ed, though not Sealed preſently. But,</p>
+            <p>
+               <hi>Secondly,</hi> Conſider, That tho' all Believers are not Sealed at one and the ſame time; yet there are few that are true Chriſtians, but before they dye, meet with one Seaſon or another, wherein the Lord doth Seal them. If they be
+<pb n="63" facs="tcp:37079:38"/> not Sealed at their firſt cloſing in with Chriſt by Faith, as ſome are, tho' but few; yet they are Sealed by the Spirit, more or leſs, before they dye, and go out of the World.</p>
+            <p>
+               <hi>Thirdly,</hi> and Laſtly, Conſider, That though God doth not now ſeal by his Spirit in an extraordi<g ref="char:EOLhyphen"/>nary and immediate way, by Re<g ref="char:EOLhyphen"/>velation, <hi>&amp;c.</hi> yet moſt Chriſtians in the ordinary way of the Spirit are ſealed: God meets with them in one Duty or another; in one ſacred Ordinance, or another; either in Prayer, Reading, Hear<g ref="char:EOLhyphen"/>ing, or in receiving of the Lord's Supper. This God has promiſed, and Believers may expect; for God is faithful, who has promiſed, I ſhall conclude with theſe two Scriptures, <hi>Iſa. 32. 17. And the work of Righteouſneſs ſhall be peace; and the effect of Righteouſnes, Qui<g ref="char:EOLhyphen"/>etneſs
+<pb n="64" facs="tcp:37079:39"/> and Aſſurance for ever.</hi> Iſa. 64. 5. <hi>Thou meeteſt him that re<g ref="char:EOLhyphen"/>joyceth and worketh Righteouſneſs, and remembers thee in thy ways.</hi>
+            </p>
+            <p>
+               <hi>So much for this time.</hi>
+            </p>
+         </div>
+         <div n="3" type="sermon">
+            <pb n="65" facs="tcp:37079:39"/>
+            <head>Believers Sealed BY THE Spirit of Promiſe.</head>
+            <epigraph>
+               <bibl>Third Sermon, from <hi>Epheſ.</hi> 1. the latter part of the 13 <hi>verſe.</hi>
+               </bibl>
+               <q>
+                  <hi>In whom alſo, after that ye believed, ye were ſealed with the Holy Spirit of Promiſe.</hi>
+               </q>
+            </epigraph>
+            <p>BRethren, the Truth we are upon from the Words is this.</p>
+            <p>
+               <hi>Doctrine.</hi> The great priviledge and mercy of being Sealed by the Spirit of Promiſe, is after the Duty
+<pb n="66" facs="tcp:37079:40"/> and Act of Believing. <hi>After ye Believed, ye were Sealed by the Spi<g ref="char:EOLhyphen"/>rit,</hi> &amp;c.</p>
+            <p>For the opening this great Point we have,</p>
+            <p>
+               <hi>Firſt,</hi> already ſhown, what the Spirit's Sealing is.</p>
+            <p>
+               <hi>Secondly,</hi> Why none are, nor can be Sealed, till they Believe in the Lord Jeſus Chriſt. And,</p>
+            <p>
+               <hi>Thirdly,</hi> We have anſwered this great Queſtion, <hi>viz.</hi> Whether all Believers are Sealed by the Spirit of Promiſe, or not. Now in the</p>
+            <p>
+               <hi>Fourth</hi> place, God aſſiſting, we ſhall ſhew you the great Privi<g ref="char:EOLhyphen"/>ledges of thoſe Souls, that are Sealed by the Holy Spirit of Pro<g ref="char:EOLhyphen"/>miſe.</p>
+            <p>And (my Beloved) their Pri<g ref="char:EOLhyphen"/>viledges and Advantages are many and great; even ſo great and ma<g ref="char:EOLhyphen"/>ny, that words cannot expreſs
+<pb n="67" facs="tcp:37079:40"/> them fully; nor ſet out the riches and worth of this mercy.</p>
+            <p>Some of the Saints Priviledges, by being Sealed, we ſhall acquaint you with in theſe particulars.</p>
+            <p>
+               <hi>Firſt,</hi> The uſe of a Seal in Men's Affairs, ſets out the priviledges of Believers Sealed by the Spirit. For as the uſe of a Seal is manifold, ſo the advantages of Believers are many, <hi>who are Sealed by the Holy Spirit to the day of Redemption,</hi> Eph. 4. 30.</p>
+            <p>Queſt. <hi>What are the <g ref="char:V">Ʋ</g>ſes <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Seal.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Uſes of a Seal are many: as,</p>
+            <p>
+               <hi>Firſt,</hi> A Seal ſerves for Confir<g ref="char:EOLhyphen"/>mation amongſt Men; there is the Writing, and the Seal put to the Writing: now when the Seal is added, there is a perfect Ratifica<g ref="char:EOLhyphen"/>tion, or Confirmation of what is in the Writing. There are abun<g ref="char:EOLhyphen"/>dance of great and precious Pro<g ref="char:EOLhyphen"/>miſes
+<pb n="68" facs="tcp:37079:41"/> in the Word of God, which the Spirit of Promiſe ſeals to the Soul; and when he ſeals them, then are they ſure to us. The Apo<g ref="char:EOLhyphen"/>ſtle tells us, 2 <hi>Cor. 1. 20. That all the Promiſes of God are in Chriſt, yea, and Amen.</hi> Yea, that is truth. Amen, that is aſſurance. And in <hi>v. 21. He hath alſo Sealed us, and given the earneſt of his Spirit in our hearts.</hi> Thoſe Promiſes that are made and given us in Chriſt, the Lord aſſures and confirms to us, by his Holy Spirit; who opens and applies the Promiſes to Be<g ref="char:EOLhyphen"/>lievers. The Spirit aſſureth the Saints their right in the Promiſes, and that God will pay the whole ſum of them in his time to them. <hi>For an Earneſt</hi> (ſaith the Anno<g ref="char:EOLhyphen"/>tators on the place) <hi>is as a pledge, whereby we confirm a Bargain; or, as a piece of Money, whereby we aſſure the payment of the whole.</hi> The firſt gift therefore of the Spirit, and of
+<pb n="69" facs="tcp:37079:41"/> Life, is a pledge of our whole In<g ref="char:EOLhyphen"/>heritance, inſomuch, that this a<g ref="char:EOLhyphen"/>nointing, ſealing, and pledging, all ſerve to one and the ſame end. God is both able and willing to per<g ref="char:EOLhyphen"/>form all that he hath promiſed; and this the Spirit teſtifies to the Souls of them that he Seals.</p>
+            <p>2. <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> A Seal is for diſtinction, from others that carries not that mark: the Spirit of God diſtin<g ref="char:EOLhyphen"/>guiſhes them he Seals, from other Men in the World: There is (as before I have told you) a diſtin<g ref="char:EOLhyphen"/>ction between Perſons in God's Election, and Eternal Purpoſe; but this concerns us not, (ſecret things belonging to God, <hi>Deut.</hi> 29. 29.) any further than to know it in the general, that there is ſuch a thing: we are not to meddle any further with it, 2 <hi>Tim.</hi> 2. 19. The Lord knoweth them that are his, and them that are not his: for he has ſet his ſeal and mark upon
+<pb n="70" facs="tcp:37079:42"/> them in Chriſt from Eternity; but now the Spirit of God in time, di<g ref="char:EOLhyphen"/>ſtinguiſheth and ranks Men (ſaith D. <hi>Sibbs)</hi> as they were before all Worlds, and as they ſhall be at the Day of Judgment, when Chriſt ſhall come, and give to all Men according to their works, 2 <hi>Cor.</hi> 5. 10.</p>
+            <p>The beginning of that diſtincti<g ref="char:EOLhyphen"/>on that ſhall be afterwards, is in this life: the Spirit's objective Seal, <hi>viz.</hi> of Sanctification, makes a diſtinction between Men. A Seal you know, makes the Impreſſion of an Image; and the Prince's Image uſes to be in his Seal: The glorious Image of God is in his Seal, which ruines and deſtroys the old Man, and prints the New in the Souls of Believers, by the Spirit's Sealing, <hi>Epheſ.</hi> 4. 22, 23, 24. There is that by the Spirit ſtamp'd and printed in the Soul, that was not there before. True
+<pb n="71" facs="tcp:37079:42"/> Believers by the Spirit's Sealing, are,</p>
+            <p>
+               <hi>Firſt,</hi> Diſtinguiſhed from mo<g ref="char:EOLhyphen"/>ral, civilized Men, which are at beſt but tamed Devils, and old <hi>Adam</hi> put in a new Dreſs. The Houſe may be ſwept, <hi>i. e.</hi> Man may be civilized, and have many good Morals, and yet the Heart not Sanctified. See <hi>Matth.</hi> 12. 43, 44. The inward work of Holi<g ref="char:EOLhyphen"/>neſs, or Sanctification in the heart, which civil Men have not, but ri<g ref="char:EOLhyphen"/>dicule and deſpiſe, diſtinguiſhes Believers from them; for they are changed, <hi>made anew, and created in Chriſt Jeſus, to good works,</hi> Eph. 2. 10.</p>
+            <p>
+               <hi>Secondly,</hi> This Sealing of the Spirit diſtinguiſhes the Saints from ſeeming good Men, that ſeem and pretend to be that outwardly, be<g ref="char:EOLhyphen"/>fore Men, which they are not in<g ref="char:EOLhyphen"/>wardly, in reality, before God: there are too many of theſe delud<g ref="char:EOLhyphen"/>ed
+<pb n="72" facs="tcp:37079:43"/> Souls; the good Lord deliver us from cheating our own Souls thus. The depth of the Spirit's work in the Soul, whereby he makes a new Nature, diſtinguiſhes Believers from thoſe who are but painted Hypocrites. Pray mind here two or three things, wherein you will ſee how Believers, that have a new Nature, are by the Spirit diſtinguiſhed from others.</p>
+            <p>
+               <hi>Firſt,</hi> Nature in every Crea<g ref="char:EOLhyphen"/>ture is carried to one thing more than to another; ſo there is a di<g ref="char:EOLhyphen"/>ſtinct propenſion in good and up<g ref="char:EOLhyphen"/>right Men, to God, to Chriſt, to his Grace and Goodneſs; their aims and bent are diſtinct, and thereupon they have a greater in<g ref="char:EOLhyphen"/>largement of Heart, according to their great aims. Believers de<g ref="char:EOLhyphen"/>ſire more of God, and his Grace, and aim purely at his Glory: they now look above the World, and worldly Men, who are poor, nar<g ref="char:EOLhyphen"/>row,
+<pb n="73" facs="tcp:37079:43"/> baſe Spirited Men; yea, the beſt of the Men of the World are ſo, <hi>Jer. 9. 3. Phil.</hi> 1. 20, 21.</p>
+            <p>
+               <hi>Secondly,</hi> Things by Nature work from within; and in this painted Hypocrites are diſtin<g ref="char:EOLhyphen"/>guiſhed from real Chriſtians. A Believer (in what he doth for God and his Glory) is moved from a Principle of Grace within, wrought by the Spirit; but as for Hypocrites, they are moved in what they do, as things of Mo<g ref="char:EOLhyphen"/>tion; like Clocks, and Engines of Wit, which move from a weight without as one ſays) that poy<g ref="char:EOLhyphen"/>ſeth them. If Hypocrites do any good, there is ſomething from without which ſways their Ends and Aims; 'tis not a Principle of Grace within, as Faith in, and Love to Chriſt, <hi>&amp;c.</hi> But 'tis ſome<g ref="char:EOLhyphen"/>thing elſe that ſways them: if they Pray, Read, Hear, give Alms, and Faſt, 'tis to be ſeen of
+<pb n="74" facs="tcp:37079:44"/> Men, and to receive Honour from Men; this our Saviour tells us, <hi>Matth.</hi> 6. 1, to 6. Thus good Men, who are Sealed by the Spi<g ref="char:EOLhyphen"/>rit, are diſtinguiſhed from others. <hi>There is a new Divine Nature in them,</hi> 2 Pet. 1. 4. which carries them out of Self, and above the World, even to ſeek God and his Glory.</p>
+            <p>
+               <hi>Thirdly,</hi> Nature is conſtant, and what is done naturally, is done conſtantly; every Creature works according to its nature: Good and holy Men are exerciſed conſtantly in Holineſs, becauſe they do it from an inward Principle of Grace and Life, and from a work and ſtamp of the Spirit within; 'tis true, different things may ſeem the ſame; as wild Herbs in the Field may have the colour and form of them which are planted in a Garden; but there is a difference in their vertue: The ſeeming
+<pb n="75" facs="tcp:37079:44"/> Graces and Works of Hypocrites, may look like true, but they leave no vertue in them; all is not Gold that gliſters; all is not Grace that looks like it; the works of Hypo<g ref="char:EOLhyphen"/>crites are dead things: You read, <hi>Heb. 10. 22. of dead works.</hi> And in <hi>Tit. 1. 15, 16. of ſome, who pro<g ref="char:EOLhyphen"/>feſs they know God, and yet in works deny him; who are defiled, and unto good works prove Reprobates.</hi>
+            </p>
+            <p>But, in a <hi>Chriſtian</hi>'s Grace and Faith, there is a diſtinguiſhing Vertue: <hi>their ſpikenards ſend forth fragrant ſmells,</hi> Cant. 1. 12. <hi>Their Graces are like the Ointment that perfumed the whole Houſe,</hi> John 12. 3, 4. A Believer, by Faith, over<g ref="char:EOLhyphen"/>comes the World and his Sins, 1 <hi>John 5. 4, 5. He reſiſteth the Devil, ſtedfaſt in the Faith,</hi> 1 Pet. 5. 9. <hi>and with this Shield, quencheth all his fiery darts,</hi> Epheſ. 6. 16. What great things did thoſe Worthies by Faith, <hi>Heb.</hi> 11. 33, 34, 35. By
+<pb n="76" facs="tcp:37079:45"/> Faith they <hi>ſubdued Kingdoms, wrought Righteouſneſs, obtained Pro<g ref="char:EOLhyphen"/>miſes, ſtopped the mouths of Lions, quenched the violence of the Fire,</hi> &amp;c <hi>indured Tortures, and cruel Mock<g ref="char:EOLhyphen"/>ings, not accepting deliverance; yea, moreover, Bonds and Impriſonment: they were ſtoned, ſawn aſunder, were tempted,</hi> &amp;c. <hi>of whom the World was not worthy,</hi> v. 38. By Faith a Chri<g ref="char:EOLhyphen"/>ſtian performs all Duties, Prays, and Hears, and is very fruitful in his whole Converſation: there is in all a Believer's Graces a com<g ref="char:EOLhyphen"/>forting and ſtrengthening Vertue. Two Men may do the ſame things, and yet there be a great and grand difference; for Hypocrites cannot do as Believers, though in ſome externals they may out-do them. What Believers do, is from the Spirit's Sealing, in a ſpecial way; but what others do, if it be from the Spirit, yet it is but from the Spirit in a common way at beſt;
+<pb n="77" facs="tcp:37079:45"/> you muſt know there are common works of the Spirit, as well as ſpe<g ref="char:EOLhyphen"/>cial; Hypocrites may have the common, and ſo do many things externally; but it is only Believers that have the ſpecial workings and operations of the Spirit, and ſo can only do Spiritual Duties ſincerely. But,</p>
+            <p>
+               <hi>Thirdly,</hi> A Chriſtian's Graces, wrought by the Spirit, holds out in all kinds of Weather, in Win<g ref="char:EOLhyphen"/>ter and Summer, in Proſperity and Adverſity. A Believer follows the Lamb, whither ſoever he go<g ref="char:EOLhyphen"/>eth, <hi>Rev.</hi> 14. 4. But counterfeit Holineſs will not hold out always; though it may ſome time, it will ſoon go out: The Young Man in the Goſpel went a great way, he took many a fair ſtep for Heaven, and yet at laſt parted with Chriſt for the World; he was not ſound at Heart, for if he had, he would have left all for Chriſt, rather than
+<pb n="78" facs="tcp:37079:46"/> him, <hi>Matth.</hi> 19. 19, 20. He went away ſorrowful, for he had great Poſſeſſions; he did not like Chriſt's terms at all. <hi>Will a Hypocrite al<g ref="char:EOLhyphen"/>ways delight himſelf in God, and pray to the Almighty, ſurely no,</hi> Job 27. 8, 10. <hi>Demas</hi> (ſays <hi>Paul) is de<g ref="char:EOLhyphen"/>parted from us.</hi> How came that to paſs? <hi>Having loved this preſent World.</hi> The World, with its Riches, was loved more by him, than Chriſt, and his Graces: many begin to run well, but ſoon tire: they are ſoon out of breath, be<g ref="char:EOLhyphen"/>cauſe they have not true Grace; they went off from us, becauſe they were never of us: for had they been of us, that is, ſincere, they would not have gone off from us. Oh! think of this word, and tremble, 1 <hi>John</hi> 2. 19.</p>
+            <p>3. <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> A Seal is for Appro<g ref="char:EOLhyphen"/>priation: Merchants uſe to Seal thoſe Goods, they would not have
+<pb n="79" facs="tcp:37079:46"/> others have any right to. Be<g ref="char:EOLhyphen"/>lievers are God's in a more pecu<g ref="char:EOLhyphen"/>liar manner than others<g ref="char:punc">▪</g> all are the Lord's by Creation; but as for Believers, they are his by Election, Redemption, and Vocation, <hi>Pſal.</hi> 4. 5. The Lord hath ſet apart him that is Godly for himſelf. There is not only in a Chriſtian the witneſs of the Spirit, <hi>That God is his God, and dwells in him,</hi> 1 John 4. 13. but this Spirit works in a Believer, an aſſent to take God again to be his; ſo that there is a mutual Appropriation. <hi>Cant. 2. 16. My beloved is mine, and I am his.</hi> Where the Spirit Seals, there God appropriates; and this may be, yea, and is known, by the Soul's appropriating God a<g ref="char:EOLhyphen"/>gain, <hi>Pſal. 73. 25, 26. Whom have I in Heaven</hi> (ſays the Believer) <hi>but thee, or on the Earth, that I deſire, in compariſon of thy ſelf.</hi>
+               <pb n="80" facs="tcp:37079:47"/> 
+               <hi>When my Fleſh and Heart faileth, thou art the ſtrength of my heart, and my portion for ever.</hi> There is (Beloved) no action God works upon the Soul, but there is a re<g ref="char:EOLhyphen"/>flex action of the Soul, by the Spirit, to him again: If God chuſe and love a Soul, that Soul, by the Spirit, chuſes and loves him; it can do no other, but chuſe him for its all, and love him above all, 1 <hi>John 4. 19. We love him,</hi> why? <hi>becauſe</hi> (ſaith he) <hi>he hath loved us.</hi>
+            </p>
+            <p>4. <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> A Seal is uſed for Eſti<g ref="char:EOLhyphen"/>mation: Perſons uſe to ſet their Seal only upon that, for which they have an Eſtimation. The witneſs and work of God's Spirit in Believers, ſhews the Eſtima<g ref="char:EOLhyphen"/>tion that he has for them: God ſets a great Price upon his; there<g ref="char:EOLhyphen"/>fore they are called <hi>his Children, Gal. 3. 26. His Spouſe,</hi> 1 Cor. 11. 2. <hi>His dearly beloved, yea, the dear<g ref="char:EOLhyphen"/>ly
+<pb n="81" facs="tcp:37079:47"/> beloved of his Soul,</hi> Jer. 12. 7. They are called his <hi>Friends,</hi> John 15. 14. <hi>His portion and treaſure, Jer.</hi> 12. 10. His Coyn, upon whom he ſet his mark; his Image and Likeneſs, being formed into it by the Spirit, 2 <hi>Cor.</hi> 3. 18. Theſe Titles ſhew us the eſteem that God has for them that believe: He values them more than all the World beſides. It is ſaid, <hi>Prov. 11. 26. The righteous is more ex<g ref="char:EOLhyphen"/>cellent than his Neighbour.</hi> And Believers are ſaid, 1 <hi>Pet.</hi> 2. 9. <hi>To be a choſen Generation, and a Royal Prieſt-hood, a peculiar People,</hi> &amp;c. As there is a difference between precious Stones and others, ſo there is between good and bad Men, Believers, and Unbelievers: God ſets a higher Eſteem upon ſome, than upon others: wicked Men in Scripture, he calls Dogs and Swine, <hi>Matth. 7. 6, 15, 26. Rev. 22. 15. Without are Dogs,</hi> &amp;c. The
+<pb n="82" facs="tcp:37079:48"/> Saints, he calls Sons, Kings, and Heirs, <hi>Rev. 1. 5, 6. Rom. 8. 17. If Children, then Heirs,</hi> &amp;c. When Sinners are termed droſs, and dung, and thorns, and have all the baſe Names which they deſerve, and terms that may be: Believers are honourable in their Names and Titles, which (I ſay) ſhews, that God eſteems them.</p>
+            <p>
+               <hi>Queſt.</hi> Some may ask me, <hi>How they ſhall know whether God thus eſteems of them, or no.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> You may know this, by his ſaving and precious Graces, that are wrought in your Hearts, by the Spirit: where true Grace is, thoſe Souls are precious and ho<g ref="char:EOLhyphen"/>nourable in the ſight of God, <hi>Iſa.</hi> 43. 4. Common Gifts, and Privi<g ref="char:EOLhyphen"/>ledges, and Riches in the World, are no Seal of God's Eſtimation; for a Man may have of theſe, and
+<pb n="83" facs="tcp:37079:48"/> yet be a caſt-away, and not belov<g ref="char:EOLhyphen"/>ed of God. If God, Sirs, ſhould give you a whole Kingdom, it would not Seal his Love to you at all: But when God changes your Hearts, and makes you ſpiritual Kings to rule over your baſe Luſts, and Prieſts to offer up ſpiritual Sa<g ref="char:EOLhyphen"/>crifice to him, this is a Seal indeed, that God values and eſteems you. <hi>For whom he did fore-know,</hi> that is in Chriſt, <hi>he alſo did Pre<g ref="char:EOLhyphen"/>deſtinate, to be conformed to the Image of his Son.</hi> If the Spirit has Sanctified you, and formed Chriſt's Image in your Souls, and reveal'd him to you, then you may comfortably conclude, That God loves you, and that you are his Jewels, <hi>and ſhall be his, in the day when he makes them up, Mal.</hi> 3. 17, 18.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> By the way, from this learn, How to value your ſelves,
+<pb n="84" facs="tcp:37079:49"/> and others in the World; not by common Gifts and Parts, that caſt<g ref="char:EOLhyphen"/>aways, and reprobates may have, but by the Stamp that God has ſet upon you by his Spirit; which is an Argument, That God in<g ref="char:EOLhyphen"/>tends to lay you up, as Corn for another Treaſury, <hi>viz.</hi> for Hea<g ref="char:EOLhyphen"/>ven, <hi>that is his Garner, into which he will gather his Wheat, Matth. 3. 12. 2 Cor. 5. 5.</hi> Account of others, not for their great Parts only, but for their Grace and Piety, which they diſcover by a good Life: many deceive themſelves with falſe hopes and evidences for Heaven: Some think God loves them: <hi>Firſt,</hi> becauſe he ſpares them, and follows them with long Patience. God ſpared the old World 120 Years, and yet at laſt deſtroyed them with a Deluge, for their Sins, <hi>Gen.</hi> 6. 3. And ſo he will you, after long Patience, if you Repent not, <hi>Pſal. 50. 21. Se<g ref="char:EOLhyphen"/>condly,</hi>
+               <pb n="85" facs="tcp:37079:49"/> Becauſe they Thrive, and grow rich in the World. Are theſe the Fruits of God's ſpecial Love? ſurely no. For God gives much of the World to them that are his Enemies. You read, <hi>Luke</hi> 16. of <hi>a rich Man, that fared ſumptuouſly every day:</hi> he had what Heart could wiſh; <hi>and yet in Hell he lift up his Eyes, being in Torments,</hi> ver. 22. His riches could not keep him out of Hell. Oh! then belov<g ref="char:EOLhyphen"/>ed, deceive not your ſelves, but look for the Royal Stamp of God's Grace and Image in your Souls; <hi>For without Grace and Holineſs none can ſee God,</hi> Heb. 12. 14.</p>
+            <p>5. <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> of a Seal is for Secrecy, as in Letters, <hi>&amp;c.</hi> The Seal of God's Spirit is a ſecret work in the Soul: Believers are only known to God, and to their own Hearts, that they are his. <hi>The white Stone with the New Name, is only known</hi>
+               <pb n="86" facs="tcp:37079:50"/> 
+               <hi>to them that have it,</hi> Rev. 2. 17. 'Tis true, Holy Men are known in ſome degree one to another, to make their Communion the ſweeter. There is (as one words it) a great deal of ſpiritual like<g ref="char:EOLhyphen"/>neſs in Chriſtians; and they have a ſtrong confidence of one ano<g ref="char:EOLhyphen"/>ther's Salvations. But, notwith<g ref="char:EOLhyphen"/>ſtanding all this, The undoubted Certainty of Man's State, that is only known to God, and a Chri<g ref="char:EOLhyphen"/>ſtian's own Soul. Nay, ſome<g ref="char:EOLhyphen"/>times, this may be hid from a Believer, in ſome meaſure. Hence Life is called a hidden Life, <hi>Col.</hi> 3. 3, 4. It may (I ſay) ſome<g ref="char:EOLhyphen"/>times be unknown to a Believ<g ref="char:EOLhyphen"/>er, but I am ſure it is always to the World; for they neither know God that begat, nor them that are begotten. But,</p>
+            <pb n="87" facs="tcp:37079:50"/>
+            <p>
+               <hi>Sixthly,</hi> To Conclude: A Seal is alſo for Security, both of Perſons and Things, from common An<g ref="char:EOLhyphen"/>noyance or Hurt. The Spirit ſe<g ref="char:EOLhyphen"/>cures Believers in his Sealing work, <hi>Firſt,</hi> from being overcome by ſin or Satan, <hi>Rom.</hi> 6. 14. <hi>Secondly,</hi> From falling totally and finally from Grace: And, <hi>Thirdly,</hi> from Hell and Eternal Wrath. As the Blood ſprinkled on the Door Poſts ſecured the <hi>Iſraelites</hi> from being Deſtroyed by the Deſtroying An<g ref="char:EOLhyphen"/>gel, <hi>Exod.</hi> 12. 8, 12. You read, <hi>Ezek.</hi> 9. 4. That a mark muſt be ſet upon them in <hi>Jeruſalem,</hi> that ſhould not be deſtroyed. And in <hi>Revel.</hi> 7. 2, 3. That God's Sealed ones muſt not be hurt. The Spirit's Sealing is an Argument, That thoſe ſhall be Saved, not only from Troubles here, but from Hell hereafter.
+<pb n="88" facs="tcp:37079:51"/> 
+               <hi>Rom. 8. 1. For there is no Con<g ref="char:EOLhyphen"/>demnation to them which are in Chriſt, who walk not after the fleſh, but after the ſpirit.</hi>
+            </p>
+            <p>
+               <hi>So much for this time.</hi>
+            </p>
+         </div>
+         <div n="4" type="sermon">
+            <pb n="89" facs="tcp:37079:51"/>
+            <head>Believers Sealed BY THE Spirit of Promiſe.</head>
+            <epigraph>
+               <bibl>Fourth Sermon, from <hi>Epheſ.</hi> 1. the latter part of the 13 <hi>verſe.</hi>
+               </bibl>
+               <q>
+                  <hi>In whom alſo, after that ye believed, ye were Sealed with the Holy Spirit of Promiſe.</hi>
+               </q>
+            </epigraph>
+            <p>BEloved, the Theam we are upon is this, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Doct.</hi> The great priviledge and mercy of being Sealed by the Ho<g ref="char:EOLhyphen"/>ly Spirit, is after the Duty and
+<pb n="90" facs="tcp:37079:52"/> Act of Believing. <hi>In whom after ye believed, ye were Sealed by the Ho<g ref="char:EOLhyphen"/>ly Spirit of Promiſe.</hi>
+            </p>
+            <p>For the management of this weighty Point we have</p>
+            <p>
+               <hi>Firſt,</hi> Shown you what the Spi<g ref="char:EOLhyphen"/>rit's Sealing Work is.</p>
+            <p>
+               <hi>Secondly,</hi> Why none are, or can be Sealed, 'till they Believe.</p>
+            <p>
+               <hi>Thirdly,</hi> Whether all Believers are Sealed by the Spirit, or no.</p>
+            <p>
+               <hi>Fourthly,</hi> We are now upon ſhowing you the great priviledges of Perſons Sealed by the Spirit of God.</p>
+            <p>And for the doing of this, we have in our laſt Diſcourſe, ſhown you ſome of the Believers Privi<g ref="char:EOLhyphen"/>ledges being Sealed by the Holy Spirit of Promiſe, and that</p>
+            <p>
+               <hi>Firſt,</hi> In the many uſes of a Seal, in ſix things. Now we ſhall, thro' God's Aſſiſtance, pro<g ref="char:EOLhyphen"/>ceed further, to ſet forth the Pri<g ref="char:EOLhyphen"/>viledges
+<pb n="91" facs="tcp:37079:52"/> of Sealed Believers, by the Spirit of Truth and Holineſs; and therefore,</p>
+            <p>
+               <hi>Secondly,</hi> The Saints Priviledge (being Sealed) appears, from the Author of it, <hi>viz.</hi> the Holy Spirit of Promiſe. This is the Spirit's Act, and proper work alone: God doth not ſend Angels upon this Errand, or to do this Work; but he gives and ſends his gracious Spirit to do it. If God did ſend an Angel to do this work, it would be an honour to poor Man, but for God to ſend his Holy Spi<g ref="char:EOLhyphen"/>rit to Seal us, is more and greater honour, than if Millions of Angels were to come, and to be imploy<g ref="char:EOLhyphen"/>ed in this work; <hi>What is ſorry Man, that God ſhould give him his Spirit?</hi> And beſides, the certain<g ref="char:EOLhyphen"/>ty and ſatisfaction of the Spirit is beyond all other ways and me<g ref="char:EOLhyphen"/>thods in the World. In miracu<g ref="char:EOLhyphen"/>lous Voices and Inſpirations, there
+<pb n="92" facs="tcp:37079:53"/> may be found ſome cheat of the Devil, who is a deceiver, and ſeeks to deceive poor Souls. But the Spirit's witneſs is certain and true, it being ſuitable to his revealed Mind in the written Word, as I have told you before; and being thus, it cannot deceive us. The Spirit that Seals us, is Truth, and cannot witneſs to a Lye, nor de<g ref="char:EOLhyphen"/>ceive them that he Seals.</p>
+            <p>
+               <hi>Thirdly,</hi> Their Priviledges who are Sealed, appears from the Truth that is Sealed to them, which is Raviſhing and Tranſ<g ref="char:EOLhyphen"/>porting. The Spirit Seals to Be<g ref="char:EOLhyphen"/>lievers, the Pardon of their Sins, through the Blood of Chriſt, which is a great Bleſſing: and their pro<g ref="char:EOLhyphen"/>priety in Him, as their Head, their Husband, their Friend, their All in All. This is that which Believers long to know, and is their great mercy for to know by
+<pb n="93" facs="tcp:37079:53"/> the Spirit; what ſweeter, and more tranſporting to the Souls of Believers than this, to know their Sins, which were many, are par<g ref="char:EOLhyphen"/>doned; that Chriſt is their's, his Righteouſneſs their's, his Merits their's, his Grace their's, to ſupply their great wants; <hi>and that they ſhall be ſaved from Wrath, through him? Rom.</hi> 5. 9. To know this in<g ref="char:EOLhyphen"/>deed, is ſweet, it is to injoy Hea<g ref="char:EOLhyphen"/>ven upon Earth, and to have ſuch Joy, as is beyond all the Joy in the World. Oh! then, what a mercy and priviledge is this, to know that Chriſt is ours; ſo as to ſay with the Spouſe, <hi>Cant. 2. 16. My beloved is mine, and I am his.</hi> And to ſay with them upon good grounds, <hi>Lam. 3. 24. The Lord is my portion, ſaith my Soul, therefore I will hope in him.</hi> And with <hi>Da<g ref="char:EOLhyphen"/>vid, Pſal. 73. 25, 26. Whom have I in Heaven, but thee; or upon Earth, which I deſire beſides th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>?</hi>
+               <pb n="94" facs="tcp:37079:54"/> 
+               <hi>My fleſh, and my heart faileth, but thou art the ſtrength of my heart, and my portion for ever.</hi> How ſweet was this to <hi>David,</hi> under his troubles, to know that God was his Portion for ever? <hi>Paul</hi> tells us, <hi>Gal. 2. 20. The life that he lived in the fleſh, was by the faith of the Son of God, who loved him, and gave him<g ref="char:EOLhyphen"/>ſelf for him:</hi> And 2 <hi>Tim. 1. 12. I know</hi> (ſays he) <hi>in whom I have believed,</hi> &amp;c. Which knowledge was by the Spirit's Sealing; and this is that which is Sealed up, more or leſs, to every Believer, which affords great comfort, and joy, even joy unſpeakable, and full of glory, 1 <hi>P. l.</hi> 1. 7, 8.</p>
+            <p>
+               <hi>Fourthly,</hi> From the Subiects or Pe<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ns that are Sealed: and they <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves are ſin<g ref="char:EOLhyphen"/>ful <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> grieved the Spirit <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God a thouſand times over. Now is n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this a great
+<pb n="95" facs="tcp:37079:54"/> mercy, that they who grieved the Spirit ſo much, ſhould be Sealed thereby, <hi>Eph.</hi> 4. 30. Oh! won<g ref="char:EOLhyphen"/>derful priviledge that ſuch, who had deſerved to be Sealed to dam<g ref="char:EOLhyphen"/>nation, becauſe of their ſins, ſhould be Sealed to Salvation.</p>
+            <p>
+               <hi>Fifthly,</hi> The Priviledges of Sealed ones, appears to be many, from the great, or grand deſign of the Holy Spirit in Sealing. The Spirit's deſigns and aims in Sealing of Believers, are theſe three, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> To ſecure them from Hell and Wrath: they that have the Spirit's Seal, ſhall not be con<g ref="char:EOLhyphen"/>demned; the Wrath of God that falls upon others, ſhall not touch them. <hi>For there is now no condem<g ref="char:EOLhyphen"/>nation to them which are in Chriſt Jeſus, who walk not after the fleſh, but after the ſpirit.</hi>
+            </p>
+            <pb n="96" facs="tcp:37079:55"/>
+            <p>
+               <hi>Secondly,</hi> To ſecure Heaven to them for ever: They that are Sealed here by the Spirit, ſhall cer<g ref="char:EOLhyphen"/>tainly be crowned with Glory hereafter, ſays <hi>Paul, 2 Cor.</hi> 5. 4, 5, 6. Now he that hath wrought us, or made us fit, for the ſelf ſame thing, <hi>viz.</hi> Heaven, is God, who hath alſo given unto us the earneſt of his Spirit. But,</p>
+            <p>
+               <hi>Thirdly,</hi> The third deſign of the Spirit, in Sealing Believers, is, as intermediate thereunto, to bring much of Heaven into their Souls, in order to comfort and ſtrengthen them in their way to Glory. Be<g ref="char:EOLhyphen"/>lievers Sealed by the Spirit, enjoy much of Heaven, in their way to it, which makes them long to be with Chriſt, in the full poſſeſſion of Glory, <hi>Phil.</hi> 1. 22. Believers being Sealed, enjoy much com<g ref="char:EOLhyphen"/>fort, joy, and peace in their Souls,
+<pb n="97" facs="tcp:37079:55"/> 
+               <hi>Rom. 5. 1, 2. They rejoyce in the hope of the glory of God.</hi> That God, who is the God of Peace, doth, and will give to his, much joy in believing; he'll fill them with joy, and peace, above all others; they ſhall have the fore<g ref="char:EOLhyphen"/>taſt of Glory and Bleſſedneſs here, and in a little while, they ſhall be received to Glory, where all tears ſhall be wiped away, and they ſhall be for ever with the Lord, 1 <hi>Theſ.</hi> 4. 18. This ſhall ſuffice to have ſet forth the Priviledges of thoſe, that are Sealed by the Spirit of Promiſe.</p>
+            <p>Fifthly, Application.</p>
+            <p>
+               <hi>Firſt <g ref="char:V">Ʋ</g>ſe,</hi> By way of Informa<g ref="char:EOLhyphen"/>tion, from this great Doctrine of Sealing by the Spirit, I infer theſe Two things, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Firſt Infer.</hi> That Perſons may
+<pb n="98" facs="tcp:37079:56"/> know here, they are in a ſtate of Grace. And,</p>
+            <p>
+               <hi>Secondly,</hi> That Perſons upon knowing there preſent ſtate in Grace, may be aſſured for the time to come. But,</p>
+            <p>
+               <hi>Firſt,</hi> I infer, That Perſons may know here, they are in a ſtate of Grace, and Salvation; that their Sins are pardoned; that God is pacified towards them, through his Son; and that alſo, through Chriſt, they are ſaved from Hell, and Eternal Wrath, which for ſin they deſerved. This (I ſay) Be<g ref="char:EOLhyphen"/>lievers may know, and have clear<g ref="char:EOLhyphen"/>ed up to them, and that upon a five-fold account; as,</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe the Sealing of us by the Spirit, is not in regard of God, but in regard of our ſelves. As for God, he knoweth them that are his, 2 <hi>Tim.</hi> 2. 19. But we do not know, neither can we, that
+<pb n="99" facs="tcp:37079:56"/> we are God's, but by the Sealing of his good Spirit; and this Seal<g ref="char:EOLhyphen"/>ing is on purpoſe that we may know, God is our Father, and we are his Children. <hi>Paul</hi> tells us, <hi>Gal. 4. 6. That therefore God hath ſent his Spirit into our hearts, that we may cry Abba Father.</hi> But,</p>
+            <p>
+               <hi>Secondly,</hi> Becauſe the Scope of the Word which was Indited by the Spirit, is for our comfort, and that we might have hope, <hi>Rom. 15. 4. For whatſoever things were written aforetime, were written for our Learning, that we, through patience, and comfort of the Scriptures, might have hope.</hi> Now Beloved, what comfort can a Man have in an un<g ref="char:EOLhyphen"/>certain condition, wherein he knows not but he may be a Re<g ref="char:EOLhyphen"/>probate. But again,</p>
+            <p>
+               <hi>Thirdly,</hi> Why did Chriſt Jeſus come into the World, and take
+<pb n="100" facs="tcp:37079:57"/> our Natures upon him? Why did he become a Curſe for us, and carry our Natures (when he had ſuffered) into Heaven, there to appear before God for us, 'till he has brought all home? <hi>Gal. 3. 13, Heb.</hi> 9. 24. I ſay, why hath, and doth Chriſt all this for us, but to have us out of all doubt of his Love and Good-will, after once we have received him by Faith. <hi>For having loved his own, he loves them to the end,</hi> John 13. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>
+               <hi>Fourthly,</hi> We may come to ar<g ref="char:EOLhyphen"/>rive at ſome knowledge of our ſtate in Grace, becauſe we are commanded <hi>to make our calling and election ſure.</hi> Now God doth not injoin Impoſſibilities upon us, but commands that, which may be done; and bids us ſeek after that which may be attained to, 2 <hi>Pet. 1. 10. Give all diligence to make your calling and election ſure.</hi> But,</p>
+            <pb n="101" facs="tcp:37079:57"/>
+            <p>
+               <hi>Fifthly,</hi> What uſe are the Sa<g ref="char:EOLhyphen"/>craments for, eſpecially the Lord's Supper, but to confirm our Faith, and ſeal up Chriſt's Benefits to us? Saith Chriſt to the Noble Man, that beſought him to come down, and heal his Son, <hi>John 4. 47, 48. Except ye ſee ſigns and wonders, ye will not believe.</hi> Chriſt ſets the Elements of Bread and Wine, in the Lord's Supper before us, that by theſe viſible ſigns, our Faith and Grace might be ſtrengthened. As Faith comes by hearing, <hi>Rom.</hi> 10. 17. ſo it is confirmed by ſee<g ref="char:EOLhyphen"/>ing Chriſt Crucified; which by Faith may be ſeen in the Lord's Supper. This Sacrament is not only a bare ſign to repreſent Chriſt to us, but it is a Seal to confirm our Intereſt in him: He that would have his Grace ſtreng<g ref="char:EOLhyphen"/>thened, muſt be found in this Or<g ref="char:EOLhyphen"/>dinance, in which Chriſt is ſet
+<pb n="102" facs="tcp:37079:58"/> forth, and as it were, lively Cru<g ref="char:EOLhyphen"/>cified, <hi>Gal.</hi> 13. 1, 2. It was a ſaying of <hi>Bernard, When my ſpiri<g ref="char:EOLhyphen"/>tual ſtrength begins to fail, I know a Remedy</hi> (ſaith he) <hi>I will go to the Table of the Lord, and there I will eat and drink to recover my decayed ſtrength.</hi> God meets his at the Table, and there ſeals up his love to them, and ſtrengthens their Graces, <hi>Cant. 1. 13. While the King ſits at his Table, my ſpikenard ſends forth its ſmell.</hi> Chriſt's pre<g ref="char:EOLhyphen"/>ſence in his Ordinances, ſtirred up the Spouſe's Graces, and put them into exerciſe. Now, after all this, ſhall we doubt of God's love to us, eſpecially, when beſides the Sealing of the Promiſes to us, we our ſelves are ſealed by the Holy Spirit of Promiſe.</p>
+            <p>Object. <hi>But ſome may ſay, We ſhould not doubt, did we but know this, That we do Believe truly.</hi>
+            </p>
+            <pb n="103" facs="tcp:37079:58"/>
+            <p>
+               <hi>Anſw.</hi> As it is the Office of the Holy Spirit to work Faith, and other Graces in the Soul, ſo to re<g ref="char:EOLhyphen"/>veal this Faith and Grace to the Soul. The Grace of God is Light in its ſelf, becauſe it comes from him, who is the Father of Lights, from whom comes every good and perfect Gift, <hi>James</hi> 1. 17. And it is the property of Light, not only to diſcover other things, but it ſelf alſo: And obſerve alſo, That the Spirit gives Light to this Light, by ſhining on his own Graces wrought in the Soul, 1 <hi>Cor. 2. 12. We have received not the ſpirit of the world, but the ſpirit which is of God, that we might know the things which are freely given to us of God.</hi> And ſays <hi>Paul, Rom. 8. 16. The Spirit it ſelf beareth wit<g ref="char:EOLhyphen"/>neſs,</hi> &amp;c. <hi>we are the Children of God.</hi> God's Children know that he is their Father, and they his Chil<g ref="char:EOLhyphen"/>dren;
+<pb n="104" facs="tcp:37079:59"/> but the remainders of ſin and corruption, are ſtill breeding doubts in the Soul: but it is the office of the Spirit of Faith to quell them as they ariſe. We are too prone, in a time of temptation, to doubt, and have great fears. But Sirs, we need not help the Tempter, as ſome do, by holding it a Duty to doubt of Salvation, when Chriſt ſaith, <hi>be not faithleſs, but believing.</hi> Oh! have a care of this, and rouſe up your ſelves, and ſay as <hi>David,</hi> when doubts ariſe, and your Souls are diſqui<g ref="char:EOLhyphen"/>eted, <hi>Pſalm 48. ult. Why art thou caſt down, O my Soul, and why art thou diſquieted within me: hope thou in God, for I ſhall yet praiſe him, who is the health of my countenance, and my God.</hi> But,</p>
+            <p>
+               <hi>Secondly,</hi> From the Sealing of the Spirit, I infer, That Perſons, upon knowing their preſent ſtate
+<pb n="105" facs="tcp:37079:59"/> in Grace, may be aſſured for the time to come. For the Sealing of Believers by the Spirit, is not on<g ref="char:EOLhyphen"/>ly for the preſent, but to the Day of Redemption, <hi>Eph. 4. 30. Grieve not the Holy Spirit,</hi> ſaith <hi>Paul, whereby ye are Sealed to the Day of Redemption.</hi> That is, 'till they come to the full poſſeſſion of that Glory which now they believe and hope for. And beſides, this Sealing of the Spirit is for the ſe<g ref="char:EOLhyphen"/>curing of Believers for the time to come, <hi>John</hi> 14. 16, 17. Faith and Love, and other Graces of the Spirit, never ſail finally, but ever remain in their Habits, though ſometimes loſt in the exerciſe. True Faith ſets us in a ſtate of Salvation; and we being put into Chriſt by Faith, or ingraffed into him the Vine, are riſen with him, and ſits with him in heavenly places, as you may ſee, <hi>Eph.</hi> 2. 5, 6. True Faith makes the things
+<pb n="106" facs="tcp:37079:60"/> to come, preſent; for it is the ſub<g ref="char:EOLhyphen"/>ſtance, ground, or confidence of things hoped for, and the evidence of things not ſeen, <hi>Heb.</hi> 11. 1. 2. Faith alſo Believes, <hi>that neither life, nor death, principalities, or powers, things preſent, or to come, can never ſeparate the Soul from the love of God, which is in Chriſt Jeſus our Lord,</hi> Rom. 8. 38, 39. So that (Beloved) the Aſſurance of Believers, is not only for the pre<g ref="char:EOLhyphen"/>ſent, but for the time to come. For they are Sealed up to the Day of Redemption; even to that day in which Chriſt ſhall fetch them to Glory. Who is there, my Bre<g ref="char:EOLhyphen"/>thren, that can reverſe the Seal of God, and make it void. Grace is an earneſt Penny for Glory; and where God gives the one, he'll give the other. <hi>Pſal.</hi> 84. 11. For thou wilt give Grace and Glo<g ref="char:EOLhyphen"/>ry, <hi>&amp;c.</hi> to them that walk up<g ref="char:EOLhyphen"/>rightly with thee. If you can be
+<pb n="107" facs="tcp:37079:60"/> aſſured, that you have Grace for the preſent, you may be ſure it ſhall be made up full in Glory. There is no oppoſition that ſhall prevail to hinder it, for God has ſet his as a Seal.</p>
+            <p>
+               <hi>Firſt,</hi> upon his Hand, to ſhew that he doth, and will keep them, 'till they come to Glory, <hi>Iſa. 41. 10. Fear not, for I am with you</hi> (ſaith God) <hi>and I will uphold you with the right hand of my righteouſ<g ref="char:EOLhyphen"/>neſs: Behold, all they that are in<g ref="char:EOLhyphen"/>cenſed againſt thee, ſhall be aſhamed and confounded, they ſhall be as no<g ref="char:EOLhyphen"/>thing,</hi> &amp;c. <hi>Even they that contend with thee ſhall be as nothing,</hi> v. 13. Why ſhall it be thus? The An<g ref="char:EOLhyphen"/>ſwer is, For I the Lord thy God will hold thy right Hand, ſaying unto thee, fear not, I will help thee, <hi>v. 49. Iſa. 13. 14, 15. Sion</hi> ſaid, the Lord hath forſaken me, and my God hath forgotten me.
+<pb n="108" facs="tcp:37079:61"/> Thus many Believers ſay: But ſaith God, Can a Woman forget her ſucking Child, not to have compaſſion on the Son of her Womb; yea, ſhe may be ſo cruel as to forget; but I (ſaith the Lord) will not forget thee: For, behold, I have graven thee upon the Palms of my Hands; or drawn thee, pourtray'd thee on my hands. A Metaphor taken from ſome that uſed to tye ſomething on their hand, to put them in mind of Bu<g ref="char:EOLhyphen"/>ſineſs they would not forget. God having ſet his People as a mark, or ſeal upon his hand, he'll never forget them: for they are not on<g ref="char:EOLhyphen"/>ly ſet, but ingraven, which will not eaſily wear out. But,</p>
+            <p>
+               <hi>Secondly,</hi> God has ſet them as a Seal upon his Breaſt, to love them; and He will love them, and that for ever, <hi>John</hi> 13. 1. Our Love indeed may be deadned, and de<g ref="char:EOLhyphen"/>cay
+<pb n="109" facs="tcp:37079:61"/> towards God; we may leave our firſt Love in a great meaſure, <hi>Rev.</hi> 2. 4. But there is nothing that can, or ſhall deaden God's love towards his Children Where God loves in Chriſt, he loves for ever; his Love is an everlaſting Love, <hi>Jer.</hi> 31. 3. But,</p>
+            <p>
+               <hi>Thirdly,</hi> On his Shoulder, to ſupport and uphold them, at all times, and in all places and condi<g ref="char:EOLhyphen"/>tions, 'till he hath brought them to glory. Says God, to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſcon<g ref="char:EOLhyphen"/>ſolated People, <hi>Iſa. 40. 27, 28, 29. Why ſayeſt thou, O Jacob, and ſpeak<g ref="char:EOLhyphen"/>eſt, O Iſrael, my way is hid from the Lord, and my Judgment is paſſed over from my God.</hi> Why ſpeak ye after this manner; this is but the ſurmiſings of Unbelief; haſt thou not known, haſt thou not heard, That the everlaſting God, the Lord, the Creator of the Earth, fainteth not, neither is
+<pb n="110" facs="tcp:37079:62"/> weary; he giveth power to the faint, and to them that have no might, he increaſeth ſtrength. But,</p>
+            <p>
+               <hi>Fourthly,</hi> God ſets them as a Seal on his Heart: they lye near his Heart; therrefore are they cal<g ref="char:EOLhyphen"/>led the Beloved, yea, the dearly beloved of his Soul, <hi>Jer.</hi> 12. 7. They that are ſincere, ſhall enjoy and taſte his love, and lye in his ſweet embraces; he'll ſmile on them, with the Light of his coun<g ref="char:EOLhyphen"/>tenance, for they are the joy of his heart, and are in the moſt in<g ref="char:EOLhyphen"/>ward parts of it, <hi>Cant.</hi> 8. 6. Thus you ſee how Believers are aſſured, and ſecured, for the time to come.</p>
+            <p>Thoſe that are in Chriſt, the rock of Ages, are ſecured for ever. And though they meet with temptations, oppoſitions, and try<g ref="char:EOLhyphen"/>als; yet they are but as Waves, that daſh upon them, but ſhall
+<pb n="111" facs="tcp:37079:62"/> not ruin them, for they are kept by the power of God, through Faith, unto Salvation, 1 <hi>Pet.</hi> 1. 4, 5.</p>
+            <p>
+               <hi>Queſt.</hi> But may ſome ſay; <hi>If it be thus, that Believers are aſſured for the time to come; Why then do we pray for the forgiveneſs of ſins.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Firſt Conſid. That as God hath ordained the End, ſo alſo the Means; God doth, and will pardon Sin, for he hath pro<g ref="char:EOLhyphen"/>miſed to do it, <hi>Iſa.</hi> 55. 7. There<g ref="char:EOLhyphen"/>fore we ought to pray for pardon through Chriſt, as a means or<g ref="char:EOLhyphen"/>dained of God: For theſe things I will be ſought to by the Houſe of <hi>Iſrael.</hi> We ſhould pray as <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> who (though he was a juſti<g ref="char:EOLhyphen"/>fied Perſon, and ſecured in the Covenant for Heaven) yet falling
+<pb n="112" facs="tcp:37079:63"/> fouly into Sin, he plyes the Throne of Grace hard. This was his du<g ref="char:EOLhyphen"/>ty, and is ours in ſuch a caſe, <hi>Pſal. 27. 10. Forgive mine Iniquities for thy Names ſake, for they are great.</hi> And <hi>Pſalm 51. 1, 2. Have mercy upon me, O God,</hi> &amp;c. <hi>and waſh me thoroughly in every part, and from every ſin.</hi> Prayer is an external means, ordained of God, to obtain Pardon, and other Mer<g ref="char:EOLhyphen"/>cies in; therefore we are bid in every thing to make our Requeſts known to God, <hi>Phil.</hi> 4. 5, 6. But,</p>
+            <p>
+               <hi>Secondly,</hi> Conſider, When Be<g ref="char:EOLhyphen"/>lievers pray for pardon of Sin, it is for a clearer evidence of what they have already in Chriſt. To be pardoned and juſtified through Chriſt, and ſo ſecured for Heaven, is one thing; and to know it, is another: Perſons may be in Chriſt, and pardoned, and ſo in a ſure
+<pb n="113" facs="tcp:37079:63"/> ſtate for Glory, and yet may be in the dark about it, and not know whether they be ſo, or no. Now it is the duty of theſe, to ſeek after a clear knowledge of their ſtate in Chriſt, and the par<g ref="char:EOLhyphen"/>don of their ſins, through his Blood. When Believers pray for pardon, 'tis not becauſe their pardon is not ſure in Chriſt, but 'tis that they may get a clearer apprehen<g ref="char:EOLhyphen"/>ſion of it, for their comfort.</p>
+            <p>
+               <hi>Thirdly,</hi> Conſider, that Prayer doth not prejudice the ſtability or certainty of a thing. Our Saviour himſelf prayed for that which he was ſure of, <hi>John</hi> 17. 9, 10. The Covenant ſtandeth faſt for ever; and the promiſes of Pardon, and all good in it, are moſt certain, and ſhall he fulfilled; for God will not alter the thing that is gone out of his mouth, <hi>Pſal.</hi> 89. 27, 33, 34. Yet we muſt ſeek, and pray, and put God in remembrance of
+<pb n="114" facs="tcp:37079:64"/> his Promiſe, as he bids us; for this prejudices not at all the cer<g ref="char:EOLhyphen"/>tainty of the Promiſes, nor the ſtability of the Covenant of Grace in Chriſt. Thus much for In<g ref="char:EOLhyphen"/>formation, and for this time.</p>
+         </div>
+         <div n="5" type="sermon">
+            <pb n="115" facs="tcp:37079:64"/>
+            <head>Believers Sealed BY THE Spirit of Promiſe.</head>
+            <epigraph>
+               <bibl>Fifth Sermon, from <hi>Epheſ.</hi> 1. the latter part of the 13 <hi>verſe.</hi>
+               </bibl>
+               <q>
+                  <hi>In whom alſo, after that ye believed, ye were Sealed with the Holy Spirit of Promiſe.</hi>
+               </q>
+            </epigraph>
+            <p>BRethren, The Point we are upon is this, <hi>viz.</hi>
+            </p>
+            <p>Doct. <hi>The great priviledge and mercy of being Sealed by the Spirit, is af<g ref="char:EOLhyphen"/>ter the duty and act of Believing. For the opening this Truth.</hi>
+            </p>
+            <pb n="116" facs="tcp:37079:65"/>
+            <p>
+               <hi>First,</hi> We have given you the nature of the Spirit's Sealing-work, and how it is performed in the Soul.</p>
+            <p>
+               <hi>Secondly,</hi> we have ſhewn you, why none can be Sealed by the Spirit of Promiſe, till they believe in Chriſt.</p>
+            <p>
+               <hi>Thirdly,</hi> VVhether all believers are Sealed by the Spirit, or no?</p>
+            <p>
+               <hi>Fourthly,</hi> VVhat the great Pri<g ref="char:EOLhyphen"/>viledges of Sealed ones are? Theſe things we have opened largely. Now,</p>
+            <p>
+               <hi>Fifthly,</hi> VVe are upon the Ap<g ref="char:EOLhyphen"/>plicatory part of this diſcourſe; and we have already ſaid ſome<g ref="char:EOLhyphen"/>thing,</p>
+            <p>
+               <hi>Firſt,</hi> By way of Information, or Inſtruction in two things, which now I ſhall not Repeat to you; but through God's aſſiſtance, proceed, and put a period to this ſubject at this time.</p>
+            <pb n="117" facs="tcp:37079:65"/>
+            <p>2. <hi>
+                  <g ref="char:V">Ʋ</g>ſe,</hi> Is by way of Examinati<g ref="char:EOLhyphen"/>tion and Tryal: Oh, examine your own Hearts narrowly; ſee how it ſtands between God and your Souls; and whether you are Sealed by the Spirit of Promiſe, or no? This is a matter to be ſtrictly ſearched into, and ought to be made your greateſt buſineſs in the world.</p>
+            <p>Queſt. <hi>How ſhall we know that we are in Chriſt by Faith, and ſo ſealed by the Holy Spirit of Pro<g ref="char:EOLhyphen"/>miſe?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By the Divine Operati<g ref="char:EOLhyphen"/>ons of the Spirit within you, by the word, 2 <hi>Cor. 5. 17. 1 Theſ.</hi> 1. 4, 5, 6. And by the proper genuine effects and Fruits of the Spirit's Sealing<g ref="char:EOLhyphen"/>work; where the Spirit Seals, there be ſuch proper genuine ef<g ref="char:EOLhyphen"/>fects and fruits thereof, that we may diſtinguiſh and diſcern it
+<pb n="118" facs="tcp:37079:66"/> from all the deluſions of the Devil, and from all Impoſtures whatſo<g ref="char:EOLhyphen"/>ever. Oh! See if you can find theſe in your Souls, or no; by which you may know, how it ſtands with you.</p>
+            <p>Queſt. <hi>What are thoſe proper genuine effects and fruits of the Spi<g ref="char:EOLhyphen"/>rits Sealing Work.</hi>
+            </p>
+            <p>
+               <hi>Firſt</hi> Effect is, inflamed Love to God and Chriſt, where the Spirit ſeals, that ſoul cannot but love Chriſt dearly; for one Flame doth not more naturally beget another, than the Love of God in Chriſt doth kindle the Love of the Soul to him again. 1 <hi>Joh. 4. 16. 19. We have known and believed, the Love God hath unto us,</hi> &amp;c. <hi>v.</hi> 19. We love him becauſe he hath firſt loved us. God's Love in Chriſt in the Fountain; ours the ſtream flowing from it: Love is
+<pb n="119" facs="tcp:37079:66"/> the Life and Soul of Religion, the Salt of the Sacrifice. Who can but love God, that is Sealed by the Spirit, and have aſſurance of his Love to them, through Chriſt. When Chriſt had forgi<g ref="char:EOLhyphen"/>ven much to poor <hi>Mary,</hi> who had ſinned much, Oh, how greatly was her Love inflamed to Chriſt, <hi>Luk. 7. 47. She loved much, for much was forgiven her.</hi> VVhen <hi>Paul</hi> was aſſured by the Spirit that Chriſt loved him, <hi>Gal. 2. 20. Who hath loved me, and given himſelf for me.</hi> O how was his Love to Chriſt inflamed, <hi>Phil.</hi> 3. 7, 8, 9. As Chriſt was faſtened to the Croſs, ſo was he to <hi>Paul</hi>'s heart by Love: Do you love Chriſt or no? Can you ſay as <hi>Peter, Thou that knoweſt all things, knowest that I love thee.</hi> Joh. 21. 15. 16, 17.</p>
+            <p>
+               <hi>Second</hi> Effect, is Care and Dili<g ref="char:EOLhyphen"/>gence
+<pb n="120" facs="tcp:37079:67"/> to follow Chriſt, and do his VVill; a Soul Sealed by the Spirit, lies at the Foot of Chriſt, and is careful of his Honour and Glory; his Care is to ſerve Chriſt, and in all things to pleaſe him; the Sealed Believer runs af<g ref="char:EOLhyphen"/>ter Chriſt, and is careful to keep in his Love, <hi>Jude</hi> 21. And to have reſpect to every part of his Sacred VVill. That Soul which was dull and careleſs before, is now active and lively in God's Service; Faith will make a Man walk, but the Spirit's Sealing, or aſſurance will make him run; this will be as wings to a Bird, as weights to a Clock, that will ſet all a running. Is it thus with you or no? Do you run the way of God's Commands with Delight? <hi>Pſal.</hi> 119. 34, 90.</p>
+            <p>
+               <hi>Third</hi> Effect is, Humility of Soul before God, deep abaſements,
+<pb n="121" facs="tcp:37079:67"/> and great humblings, uſe to fol<g ref="char:EOLhyphen"/>low the Spirit's Sealing; thoſe that are Sealed, are humble Souls, they ſay to Chriſt as the Diſciples, <hi>Joh. 14. 22. Lord how is it that thou wilt manifeſt thy ſelf unto us, and not unto the World; Why me, Lord, Why me,</hi> ſaith the Soul: VVhen God ſealed the Covenant of old to <hi>Abraham,</hi> that he would be his God, and his exceeding great re<g ref="char:EOLhyphen"/>ward, he fell on his Face at the time, and was very humble, <hi>Gen.</hi> 17. 1. 2. A Soul never lies lower at the Foot of God, nor abhors it ſelf more than when God ma<g ref="char:EOLhyphen"/>nifeſts his Love, and Seals it up to it. O what am I, that God ſhould be thus good to look upon me, and to call me out of Dark<g ref="char:EOLhyphen"/>neſs by his Grace.</p>
+            <p>
+               <hi>Fourth</hi> Effect is, Spiritual Strength; for the Ways of the Lord are ſtrength to the upright.
+<pb n="122" facs="tcp:37079:68"/> 
+               <hi>Prov.</hi> 10. 29. Increaſed Strength in the Soul follows the Sealing of of the Spirit. When Believers are ſealed, then new Power and Strength enters into their Souls, they are ſtrengthened with might in their inward Man. <hi>Col.</hi> 1. 11. The Saints find ſenſible Improve<g ref="char:EOLhyphen"/>ments of their Abilities for Duty. <hi>Cant.</hi> 6. 12. Is it thus with you.</p>
+            <p>
+               <hi>Fifthly.</hi> This ſealing will make us Praiſe God, thoſe that are ſealed by the Spirit, have their Mouths filled with the high Praiſes of God; they cannot but Pen a Soug of Praiſe, and bleſs the Name of that God, who hath done ſo much for them: Such ſay to their Souls as <hi>David,</hi> the ſweet Singer of <hi>Iſrael, Pſal. 103. 1, 2, 3. Bleſs the Lord, O my Soul, and all that is within me bleſs his holy Name, bleſs the Lord O my Soul, and for<g ref="char:EOLhyphen"/>get not all his Benefits, who forgi<g ref="char:EOLhyphen"/>veth
+<pb n="123" facs="tcp:37079:68"/> thy Iniquities, healeth thy Di<g ref="char:EOLhyphen"/>ſeaſes, and Crowns thee with Loving Kindneſſes: Paul Penn'd</hi> a doxolo<g ref="char:EOLhyphen"/>gy for this Bleſſing of Sealing, <hi>&amp;c. Epheſ.</hi> 1. 3. His ſolemn Thanks<g ref="char:EOLhyphen"/>giving was for this, as well as for other Bleſſings. But agaiu,</p>
+            <p>
+               <hi>Sixth Effect,</hi> is great Longings, and inflamed Deſires, after the full enjoyment of Chriſt in glory. They who are Sealed by the Spirit, long to be in Heaven, at home with the Lord, 2 <hi>Cor.</hi> 5. 4, 5. They that have taſted the love of God, in Chriſt here, long to be drink<g ref="char:EOLhyphen"/>ing full draughts of it in Heaven, <hi>Pſal. 42. 1, 2. My Soul thirſteth for thee; when ſhall I appear before my God. David</hi> did not only long to ſee God in his Houſe, and in his Ordinances, but alſo in his glory, where his Soul ſhould be fully ſatisfied, <hi>Pſal.</hi> 17. 15. There is nothing that makes Death ſo
+<pb n="124" facs="tcp:37079:69"/> undeſirable, as doubts and fears, that hang about the Saints, and upon their Spirits, about their eternal State and Condition. Per<g ref="char:EOLhyphen"/>ſons under great doubts, don't long ſo much for Death, as thoſe who are Sealed and Aſſured: Where Perſons evidences for Hea<g ref="char:EOLhyphen"/>ven are clear, and their doubts re<g ref="char:EOLhyphen"/>ſolved, they fear not Death, but go full Sail to Heaven, and depart in great Peace, <hi>Pſal. 37. 37. Luke</hi> 2. 29, 30.</p>
+            <p>Theſe are the Souls, that with <hi>Paul,</hi> deſire to depart, and to be with Chriſt, which is far better, or beſt of all, <hi>Phil.</hi> 1. 21, 22. If once (Beloved) the great Que<g ref="char:EOLhyphen"/>ſtion of our Intereſt in Chriſt be thoroughly decided, and be clear between God and us, then we ſhall find Life the matter of Pa<g ref="char:EOLhyphen"/>tience, and Death the object of deſire. But thus much by way
+<pb n="125" facs="tcp:37079:69"/> of tryal; the Lord ſet you as a Seal upon his Heart, and upon his Arm, and clear up his Love and good will in Chriſt to your Souls, that ſo you may know it, believe it, and admire it.</p>
+            <p>
+               <hi>Third <g ref="char:V">Ʋ</g>ſe, by way of Exhortation. And,</hi>
+            </p>
+            <p>
+               <hi>First,</hi> You that are not Sealed yet by the Holy Spirit of Promiſe, be exhorted and ſtirred up this Day, to ſeek out after it, That you may be aſſured of your Peace with God, and the pardon of your Sins, through the Blood of Chriſt. Say unto Chriſt, as the Spouſe, <hi>Cant. 6. 8. Set me as a Seal upon thy heart, and as a Seal upon thy arm.</hi> Pant after it, as <hi>David, Pſal. 35. 3. Say unto my Soul, I am thy Salvation.</hi> Make this your grea<g ref="char:EOLhyphen"/>teſt care and buſineſs in the world, next to glorifying of God, to ſet
+<pb n="126" facs="tcp:37079:70"/> things to rights, betwixt God and your Souls; and to get an aſſurance, That he is your Salvation. <hi>Give all diligence to make your Calling and Election ſure, 2 Pet.</hi> 1. 10, 11.</p>
+            <p>The Uſurer ſaith, It is good to be ſure; the Purchaſer ſaith, It is good to be ſure; that his Title to Lands and Houſes be ſure and firm. The Tradeſman ſaith it is good to be ſure; and ought not Believers, above all, to ſay, That it is good to be ſure of Chriſt's Love, and of the goodneſs of our Title to heaven and glory? For the love of Chriſt, heaven and glory, are infinitely above all other things; therefore to be well aſſured of them, we ſhould mind 'em with the greateſt care and dili<g ref="char:EOLhyphen"/>gence.</p>
+            <p>Motives.</p>
+            <p>Firſt, Conſider, That every wiſ
+<pb n="127" facs="tcp:37079:70"/> Man will labour to get a good thing, and make it as ſure as he can, and will you be ſuch Fools as not to mind and labour to be ſealed by the Spirit, and to be aſſured of Chriſt's Love to you, and of your Title to Glory; it is good to be ſure here, that when you dye, and have this Earthly Tabernacle diſſolved, you may know you have a Building with God, an Houſe not made with Hands eternal in the Heavens, 1 <hi>Cor. 3. 1, 2. 2dly.</hi> Conſider that there be many who will queſtion your Intereſt in Chriſt, and title to Eternal Liſe: As firſt, the Devil, who is the Accuſer of the Brethren, a Fighter againſt the Saints, and a great Enemy to all their Peace and Comfort: O Be<g ref="char:EOLhyphen"/>lievers. he'll follow you with many Temptations, and Objections a<g ref="char:EOLhyphen"/>bout your Eternal State, and raiſe many doubts in your Hearts if he
+<pb n="128" facs="tcp:37079:71"/> cannot ſplit you upon the Rock of Preſumption, (as he does Thou<g ref="char:EOLhyphen"/>ſands) he'll endeavour to ruin you on the Rock of Deſpair. <hi>Peter</hi> tells us, that the Devil goes about like a roaring Lyon, ſeeking whom he may devour, 1 <hi>Pet.</hi> 5. 8. Bleſ<g ref="char:EOLhyphen"/>ſed be God it is not whom he will, but whom he may devour. Says <hi>Paul, 2 Cor 1. 11. Take heed leſt Satan get an advantage againſt you; for we are not ignorant of his Devi<g ref="char:EOLhyphen"/>ces: The Devil has many Strata<g ref="char:EOLhyphen"/>gems and wiles to ruin poor Souls, and to diſquiet the Hearts of Believ<g ref="char:EOLhyphen"/>ers, therefore labour to be well aſſured, that you may anſwer all the falſe accuſations of the Devil;</hi> but, <hi>Se<g ref="char:EOLhyphen"/>condly,</hi> There is the World, which is fill'd with Scoffers and Troublers of God's <hi>Iſrael,</hi> the wicked <hi>Iſhmaels</hi> of the World, they'll call you Hypocrites, and queſtion your Title to Heaven and Glory; therefore ſeek after
+<pb n="129" facs="tcp:37079:71"/> the ſealing of the Spirit, and to be well aſſured of your States and Conditions, reſpecting Chriſt and Glory, that under all the falſe Cen<g ref="char:EOLhyphen"/>ſures of the World, you may ap<g ref="char:EOLhyphen"/>prove your ſelves to God, and have inward Peace, and Comfort, from this that your Hearts are right with God, and that you are, and deſire to be that before God, in reality, that you ſeem to be in appearance before Men: <hi>My Righteouſneſs,</hi> (ſaith <hi>Job) I will hold faſt, and my Heart</hi> (viz. <hi>my Conſci<g ref="char:EOLhyphen"/>ence) ſhall not condemn me as long as ever I live.</hi>
+            </p>
+            <p>Though you condemn me for an Hypocrite, yet my Righte<g ref="char:EOLhyphen"/>ouſneſs or Integrity I will hold faſt, and I will keep a good Con<g ref="char:EOLhyphen"/>ſcience, that ſhall not condemn me as long as I Live.</p>
+            <p>
+               <hi>Thirdly,</hi> There is your own Hearts, that will join in too
+<pb n="130" facs="tcp:37079:72"/> much with theſe Accuſers; there fore you had need labour to get a good Aſſurance, for if your Hearts condemn you, God is greater than your Hearts, and knoweth, all things; but if your hearts condemn you not, then have you Confi<g ref="char:EOLhyphen"/>dence towards God, 1 <hi>John</hi> 3. 20, 21. But,</p>
+            <p>
+               <hi>Thirdly,</hi> Conſider when you are ſealed by the Spirit, or have got a good Aſſurance, <hi>&amp;c.</hi> you will go about good duties with great comfort, and delight; you will reſiſt Sin, and the Devil, Pray, Read, and Hear with great ſweetneſs and delight; you'll bear Croſſes, endure Tryals with great Patience. <hi>Abraham</hi> was to do a hard piece of Work, <hi>viz.</hi> to kill his only Son, bot having received the Promiſes, he went about it chearfully, <hi>Heb.</hi> 11. 17, 18. Says <hi>David,</hi> Pſal. 89. 15, 16.
+<pb n="131" facs="tcp:37079:72"/> 
+               <hi>Bleſſed are they that hear the joy<g ref="char:EOLhyphen"/>ful Sound;</hi> why are they bleſſed? <hi>They ſhall walk</hi> (ſays he) <hi>in the Light of thy Countenance, O Lord, in thy Name ſhall they rejoice all the Day. But,</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Conſider that he whom God loves is a happy Man, though he knows it not, <hi>i. e.</hi> be not fully aſſured of it; but he that knows he is beloved of God, knows himſelf to be a hap<g ref="char:EOLhyphen"/>py Man, to be beloved of God in Chriſt is great happineſs; but to know that God doth love us in Chriſt, is greater happineſs.</p>
+            <p>
+               <hi>Fifthly,</hi> Conſider, that to he ſealed, or aſſured by the Spirit, is very ſweet and comfortable to the Soul: This is the Manna, (ſays one) in the golden Pot, the Wine of Paradice, which chears and revives the heart; how ſweet
+<pb n="132" facs="tcp:37079:73"/> is a Smile from God, through Chriſt. The Sun, you know, is more chearing when it ſhines out, than when it is hid in a Cloud, aſſurance is ſweet in Life in Suffer<g ref="char:EOLhyphen"/>ings, and in Death it ſelf, it puts a Man in Heaven as it were, be<g ref="char:EOLhyphen"/>fore his time. But,</p>
+            <p>
+               <hi>Queſt.</hi> May ſome ſay, What muſt we do to obtain the Sealing of the Spirit, or Aſſurance.</p>
+            <p>Anſwer.</p>
+            <p>
+               <hi>Firſt,</hi> Direction. Labour to get ſome certain and infallible Signs and Characters out of God's ho<g ref="char:EOLhyphen"/>ly Word of ſaving grace, that you indeed are ſuch as God has changed by his Spirit, and wrought grace in your Hearts; the Spirit's Sealing, or Aſſurance (ſaith one) is made up of a pra<g ref="char:EOLhyphen"/>ctical Syllogiſm, where the Word
+<pb n="133" facs="tcp:37079:73"/> of God is the Major, a good Conſcience the Minor, and the Spirit of God the Concluſion; as for Inſtance, the word ſaith, that he who loves God is belo<g ref="char:EOLhyphen"/>ved of God. Conſcience ſaith, but I love God, ſaith the Spirit, therefore art thou beloved of God. As alſo, <hi>He that believeth</hi> (ſaith the word) <hi>ſhall be Saved, John</hi> 3. 16. Conſcience, but I do believe, therefore (ſaith the Spirit) thou ſhalt be Saved. Now ſee if you can find theſe in your Hearts.</p>
+            <p>
+               <hi>Secondly,</hi> Retire your ſelves in<g ref="char:EOLhyphen"/>to ſome private place alone, from the Eye of the World, where none ſee you but God, and there narrowly ſearch and try your hearts. See how it ſtands be<g ref="char:EOLhyphen"/>tween God and you: Have you Grace, or no; Faith, or no, 2 <hi>Cor.</hi> 13. 5. Examine whether
+<pb n="134" facs="tcp:37079:74"/> you be in the Faith, and Faith be in you. Oh! be not Strangers to your ſelves, but commune daily with your own Hearts. This is a good way to get Aſſurance: Many are Strangers to themſelves, and look more aborad upon others, than at home, into their own Hearts, <hi>Pſal.</hi> 4. 4, 5.</p>
+            <p>
+               <hi>Thirdly,</hi> Be earneſt with God at the Throne of Grace, <hi>Heb. 4. ult.</hi> Beg of him to Seal you by his Spirit, and, through Chriſt, to diſcover your ſtate and condition to you; that ſo you may not be deceived, and go down to Hell with a Lye in your right hand. <hi>Lord ſay to my Soul, I am thy Salvation, Pſal.</hi> 35. 3. Plead thus daily with God, that ſo you may not loſe your comfort on the one hand, nor your precious Souls on the other. But,</p>
+            <pb n="135" facs="tcp:37079:74"/>
+            <p>
+               <hi>Fourthly,</hi> Watch much over your own Hearts and Lives; be very careful of your ſteps, and how you walk, that you grieve not the good Spirit. Let not your Hearts run out too much upon the World, and be not too careleſs of your ſteps, leſt you offend God, <hi>Pſal. 39. 1. I ſaid, I will look to my ways,</hi> &amp;c. That is, I reſoved to do ſo. So Pray do you, for to him that ordereth his Converſation aright, God will ſhew his Salvation, <hi>Pſal.</hi> 50. 23.</p>
+            <p>
+               <hi>Fifthly,</hi> Wait humbly and pa<g ref="char:EOLhyphen"/>tiently upon the Lord, even 'till he ſhall ſhed abroad his Love in your hearts, and ſet you as a Seal upon his heart. They that wait upon God, ſhall have renewed ſtrength, <hi>Iſa.</hi> 40. 29, 30. Who is there among you that feareth the
+<pb n="136" facs="tcp:37079:75"/> Lord, who walketh in darkneſs, and ſee no light. Oh! truſt in the Name of the Lord, and ſtay, and wait upon him. I ſay to you, as <hi>David, Pſal. 27. ult. Wait on the Lord, and be of good courage, for he ſhall ſtrengthen your hearts.</hi> Wait, I ſay, on the Lord: wait<g ref="char:EOLhyphen"/>ing Chriſtians will loſe nothing, <hi>Mich.</hi> 7. 9.</p>
+            <p>
+               <hi>Sixthly,</hi> Mourn over all thoſe ſins, that cauſe the Lord to with<g ref="char:EOLhyphen"/>draw, and hide his Face from your Souls, <hi>Iſa.</hi> 59. 2. Have you not grieved the Spirit, and been guilty of too much Pride, Paſſion, Formality, and Unbelief? Oh! weep bitterly for this, before the Lord; look upon Chriſt, whom you have pierced, <hi>Zech.</hi> 12. 10. Sights of a broken Chriſt, will cauſe a broken Heart. None can look upon Chriſt truly, without
+<pb n="137" facs="tcp:37079:75"/> brokenneſs of heart: he that looks upon Chriſt ſavingly, will mourn for him, as a Man for his only Son. Mourning for an only Son, is the greateſt of Sorrow: our ſor<g ref="char:EOLhyphen"/>row for ſins againſt God, ſhould exceed all other ſorrow. Though there be no merit, yet there is much mercy in a broken heart, <hi>Pſal.</hi> 51. 17. 34. 18. <hi>They that mourn, ſhall be comforted, Matth</hi> 5. 6.</p>
+            <p>
+               <hi>Seventhly,</hi> In times of trouble and deſertion, keep up Faith; and in times of Communion keep up fear: when God has hid his Face, and you ſit in darkneſs, then ſtir up Faith; truſt, and ſtay ſtill upon him, <hi>Iſa.</hi> 50. 11. And when God ſhall manifeſt himſelf, and ſhine upon you, then keep up fear; a fear of Jealouſie, not of Diſtruſt. <hi>Work out your Salvation</hi>
+               <pb n="138" facs="tcp:37079:76"/> 
+               <hi>with fear,</hi> Phil. 2. 12. <hi>Bleſſed is the Man that ſeareth always,:</hi> Tho' my Beloved, we blame the Pa<g ref="char:EOLhyphen"/>piſts for teaching People to doubt, and for making that a duty which is a Sin; yet we are for a narrow ſearch, and a holy Fear, and Trembling in trying of our hearts, leſt we be deceived in the end.</p>
+            <p>
+               <hi>Eighthly,</hi> Make much of, and cheriſh the holy Spirit of God. Oh, do not reſiſt him, but com<g ref="char:EOLhyphen"/>ply with his Bleſſed Motions; it is the Spirit that is the Com<g ref="char:EOLhyphen"/>forter, <hi>John</hi> 14. 16. who ſeals up aſſurance to us, 2 <hi>Cor.</hi> 1. 22. When good <hi>David</hi> would have aſſurance of God's Love, that his broken Bones might be healed; he prayed earneſtly that God would not take his holy Spi<g ref="char:EOLhyphen"/>rit from him, <hi>Pſal.</hi> 51. 11. 12. <hi>David</hi> knew that it was the Spi<g ref="char:EOLhyphen"/>rit
+<pb n="139" facs="tcp:37079:76"/> only that could make him hear the Voice of Joy and Glad<g ref="char:EOLhyphen"/>neſs. O make much of the Spi<g ref="char:EOLhyphen"/>rit, deal tenderly, and kindly by him; do not grieve nor quench him, as too many do. <hi>Eph. 4. 30. 1 Theſ.</hi> 3. 19.</p>
+            <p>
+               <hi>Ninthly,</hi> As doubts ariſe in your Hearts, get them ſatisfied, and and as Sins are committed in your Lives, get them pardoned. Are your Hearts, Chriſtians, fil<g ref="char:EOLhyphen"/>led with doubts and fears about the ſtate of your Souls: O cry to God to reſolve and ſcatter them: Have you fallen into any Sin thro' Infirmity, and Temptation: Cry for pardon through Chriſt, who is your Advocate, and Friend in Heaven, and is there pleading for you. <hi>Heb. 7. 26. 1 John</hi> 2. 1, 2.</p>
+            <p>
+               <hi>Tenthly,</hi> Keep a pure Conſci<g ref="char:EOLhyphen"/>ence;
+<pb n="140" facs="tcp:37079:77"/> O ſee that no Sin or guilt lye there unrepented of; remem<g ref="char:EOLhyphen"/>ber that God Seals no Pardon, before Faith and Repentance; keep Conſcience therefore pure, and void of offence, we are bid<g ref="char:EOLhyphen"/>den, <hi>Heb.</hi> 10. 22. to draw near to God, with true Hearts, and in the full aſſurance of Faith; ha<g ref="char:EOLhyphen"/>ving our Hearts ſprinkled from an evil Conſcience, <hi>&amp;c.</hi> He that allows himſelf in Sin, and keeps not a good Conſcience, cannot draw nigh to God in the full aſſu<g ref="char:EOLhyphen"/>rance of Faith: But,</p>
+            <p>11. <hi>Laſtly,</hi> Lye at the Pool of Ordinances; frequent much the Word and Sacraments, that are God's Appointments, in which he has promiſed to meet his People; do not ſtay away from Hearing, nor from the Table of the Lord, at no time, as many do, for every
+<pb n="141" facs="tcp:37079:77"/> ſmall frivolous thing. The way to meet with God, and to have an aſſurance of his Love, to be Sealed by his Spirit, is to wait upon him in his Ordinances, and to remember him in his ways, <hi>Iſa.</hi> 64. 5. The Ordinances of God, are the banquetting Houſe, where God diſplays the Banner of his Love, and ſeals it up to his People, <hi>Cant.</hi> 2. 4. To be found ſincerely in the way and uſe of God's Ordi<g ref="char:EOLhyphen"/>nances is the way to be ſet as a Seal upon Chriſt's heart.</p>
+            <p>2. <hi>Branch.</hi> You that are Sealed and aſſured by the Spirit, of the love of God in Chriſt to you, Oh! be exhorted.</p>
+            <p>Firſt, to endeavour to keep the aſſurance you have; as we muſt labour, to get it, ſo to keep it. It is a Mercy we ſhould beware
+<pb n="142" facs="tcp:37079:78"/> of loſing; it is the comfort of your life, and 'twill be ſweet in death: What comfort is there preſerable to this, which flows from the Sealing of the Spirit, or the Aſſu<g ref="char:EOLhyphen"/>rance of God's love in Chriſt. Now that you may have much of this Sweetneſs, and Comfort, keep, and hold faſt that aſſurance which you have through Grace ob<g ref="char:EOLhyphen"/>tained.</p>
+            <p>Queſtion.</p>
+            <p>How, or by what means may we do this?</p>
+            <p>Anſwer.</p>
+            <p>
+               <hi>First,</hi> By renewing your Repen<g ref="char:EOLhyphen"/>tance often for Sin, you cannot live without Sin, therefore live not without Repentance; God
+<pb n="143" facs="tcp:37079:78"/> often cloaths ſuch with the Gar<g ref="char:EOLhyphen"/>ments of Joy, and Comfort, who tumble themſelves in Aſhes, as it were, for their Sins. <hi>Bleſſed are they that mourn; for they ſhall be comforted,</hi> Matth. 5, 6. <hi>And that are humble, for they ſhall he exalt<g ref="char:EOLhyphen"/>ed. James</hi> 4. 9, 10.</p>
+            <p>
+               <hi>Secondly,</hi> Fear the hidings of God's Face, and the withdraw<g ref="char:EOLhyphen"/>ing the Light of his Counte<g ref="char:EOLhyphen"/>nance, from you; <hi>David</hi> feared much, therefore prayed much, <hi>Hide not thy Face from thy Servant,</hi> &amp;c. Pſal. 27. 9. Fear alſo to of<g ref="char:EOLhyphen"/>fend God by doing of any Evil, beware of every Sin, and of eve<g ref="char:EOLhyphen"/>ry Temptation to Sin, either from the Devil, the World, or your Hearts. When tempted to Sin, ſay as <hi>Joſeph</hi> did, <hi>How can I do this great Evil, and ſin againſt God, Gen.</hi> 39. 9. Sin is an ene<g ref="char:EOLhyphen"/>my,
+<pb n="144" facs="tcp:37079:79"/> it hides God's Face from us, and wounds our Souls; 'twill break our Bones, therefore fight againſt it. 1 <hi>Pet.</hi> 2. 11.</p>
+            <p>
+               <hi>Thirdly,</hi> Renounce all truſt, and Confidence in your ſelves, in your own Works, and Righteouſneſs; depend alone upon God in Chriſt, and labour to be found in him, having on his pure Righteouſ<g ref="char:EOLhyphen"/>neſs. <hi>Paul</hi> deſir'd to renounce and leave all. to be found in Chriſt, <hi>Phil.</hi> 3. 7, 8. Where is the Chri<g ref="char:EOLhyphen"/>ſtian like <hi>Paul,</hi> that has no Con<g ref="char:EOLhyphen"/>fidence in the Fleſh, or in their own Abilities; but truſt alone in God, who giveth his all things to enjoy. 2 <hi>Cor.</hi> 1. 9.</p>
+            <p>
+               <hi>Fourthly.</hi> Study Sanctification more, both in Heart and Life; they muſt follow after Holineſs, that would ſee God, <hi>Heb.</hi> 12. 14.
+<pb n="145" facs="tcp:37079:79"/> They that perfect Holineſs in the fear of the Lord, ſhall certainly ſee God, and behold his Salva<g ref="char:EOLhyphen"/>tion, <hi>Pſal.</hi> 50. 23. Oh! then be found in the conſtant and daily ex<g ref="char:EOLhyphen"/>erciſe of Grace, and perſeverance in Holineſs and Piety, 2 <hi>Cor.</hi> 7. 1, 2. 1 <hi>Pet.</hi> 1. 15. But,</p>
+            <p>
+               <hi>Fifthly,</hi> Take heed of nouriſh<g ref="char:EOLhyphen"/>ing Jealouſies, and Suſpicions of God in your hearts; fear not his Love to you, but yours to him. Some cry out, Oh! the Lord does not love me; for he has ſet me as a mark for his Arrows, and has forſaken me; he is my Enemy, and I fear he will damn me at laſt, after all. What dreadful thoughts are theſe of God; even that God, <hi>who keepeth covenant and mercy with his for ever, Pſal.</hi> 89. 33, 34. Oh! harbour not theſe
+<pb n="146" facs="tcp:37079:80"/> Jealouſies of God. If you find them in you at any time, ſee you check them, for God abides faithful, and his love is the ſame for ever, <hi>Jer. 29. 11, 12. I know the thoughts that I think towards you, ſaith the Lord, they are thoughts of peace, and not of evil, to give you an expected end. My thoughts are not your thoughts, nor my ways, your ways, ſaith God,</hi> Iſa. 55. 8, 9, 10, 11. But</p>
+            <p>
+               <hi>Sixthly,</hi> Stand up for the Truths of God againſt all Oppoſers; and for the Faith once delivered to the Saints, <hi>Jude</hi> v. 3. Much of God's Glory lies in his Truth, and they that ſtand up for his Truth, as it is in Jeſus, and bear witneſs for it in the World, are, and may be ſure, they ſhall be happy, 2 <hi>Tim.</hi> 2. 12. But,</p>
+            <pb n="147" facs="tcp:37079:80"/>
+            <p>
+               <hi>Seventhly,</hi> Have a care of Sin<g ref="char:EOLhyphen"/>ning; but eſpecially of ſinning preſumptuouſly againſt Light and Knowledge. Pray as <hi>David, Pſal. 19. 11, 12. To be kept from all ſin, but eſpecially from preſumptuous ſins, that they have no dominion over you.</hi> Sin is that which provokes God, and will wound your Conſciences, ſpoil your Peace, and mar your Evidences, and Aſſurance for Heaven; therefore ſtrive, and watch againſt all Sin, <hi>Jer. 44. 4. Matth.</hi> 26. 41.</p>
+            <p>
+               <hi>Eighthly,</hi> Be much in Prayer to God, thro' Chriſt. Pray often and earneſtly, like <hi>Jacob,</hi> for the Spi<g ref="char:EOLhyphen"/>rit of Adoption, to Seal you up to the day of Redemption. 'Tis the Spirit muſt Seal you, and reveal to you, the great things of God, that appertain to the Kingdom of
+<pb n="148" facs="tcp:37079:81"/> God, 1 <hi>Cor.</hi> 2. 10. Oh! Pray for more Grace, more Faith, more Love, and for more Aſſurance, <hi>Luke 17. 5. Pſal.</hi> 4. 6. 36. 10.</p>
+            <p>
+               <hi>Ninthly,</hi> Be tender of God's Honour and Glory in the World; ſeek and ſtudy that above all, 1 <hi>Cor.</hi> 10. 31. Our dear Lord Jeſus, as Man, abode in his Father's love, by being zealous for his glory, and ſo may you this way. Let the zeal of God's Houſe eat you up, <hi>John</hi> 2. 17. Oh! ſtudy every way to advance his glory; for they that advance God's glory here, he'll advance their joy and comfort in Chriſt, 1 <hi>Sam.</hi> 2. 30.</p>
+            <p>
+               <hi>Tenthly,</hi> Be very humble. Oh! have a care of Pride; for Pride e<g ref="char:EOLhyphen"/>ſtrangeth the Soul from God, and God from the Soul. <hi>He beholds the</hi>
+               <pb n="149" facs="tcp:37079:81"/> 
+               <hi>Proud afar off,</hi> James 4. 6. <hi>but gives more grace to the humble.</hi> When you are high in Aſſurance, and have received much from God, Oh! then be low in Humility; for God reſiſteth the Proud. <hi>Paul</hi> had a great aſſurance, being Sealed by the Spirit; yet (ſaith one) he baptizeth himſelf with this name, <hi>the chief of Sinners, 1 Tim.</hi> 1. 15, 16. The Jewel of Aſſurance, I am ſure, is beſt kept in the Cabi<g ref="char:EOLhyphen"/>net of a humble and low Spirit. Oh! be humble in your own eyes, and lye low, then God will exalt you. But,</p>
+            <p>
+               <hi>Secondly,</hi> You that are Sealed by the Spirit, and have Aſſurance, be exhorted, not only to keep it, but to improve it, for God's glo<g ref="char:EOLhyphen"/>ry, your own comfort, and the good of others.</p>
+            <p>Queſt. <hi>How ſhall we do this in a right manner?</hi>
+            </p>
+            <pb n="150" facs="tcp:37079:82"/>
+            <p>
+               <hi>Anſw. Firſt,</hi> by encouraging of thoſe poor Souls, who are yet in their Sins, and in an unconverted State. Oh! tell them how ſweet this hidden Manna is, and what a good Maſter Chriſt is, whom you love and ſerve. Oh! perſuade Sinners by the love and mercy of God in Chriſt, to leave their ſins, and inroll their Names in his Fa<g ref="char:EOLhyphen"/>mily: uſe what Arguments you can with them; for he that win<g ref="char:EOLhyphen"/>neth Souls is wiſe, <hi>Prov.</hi> 11. 30. Such ſhall ſhine in glory, <hi>Dan.</hi> 12. 5, 6.</p>
+            <p>
+               <hi>Secondly,</hi> Comfort as you can, weak Chriſtians, who have not the Sealings of the Spirit; that you have, I ſay to you as Chriſt ſaid to <hi>Peter, Luke 22. 32. When you are converted, ſtrengthen your Brethren:</hi> Comfort them that are ſtrugling, and ready to ſink.</p>
+            <pb n="151" facs="tcp:37079:82"/>
+            <p>
+               <hi>Thirdly,</hi> Walk more heavenly than ever; look to your Hearts, Lives, and Actions; ſee that you walk as Children of the light, not as the fooliſh, but as the wiſe, re<g ref="char:EOLhyphen"/>deeming all time for God, <hi>Eph.</hi> 5. 15, 16. But,</p>
+            <p>
+               <hi>Fourthly,</hi> Improve it by a chear<g ref="char:EOLhyphen"/>ful walking and ſerving of God; <hi>Come before him with gladneſs and ſinging,</hi> Pſal. 100. 1, 2. 'Tis for Perſons condemned to hang down their heads, and be ſad: but you are pardoned and juſtified through Chriſt, therefore rejoice, <hi>Rom. 5. 1, 2. 1 Cor.</hi> 6. 11. Shall Drun<g ref="char:EOLhyphen"/>kards, Swearers, Whoremongers, and wicked Wretches rejoice, who are juſt upon the brink of Hell, and are condemned already, <hi>John</hi> 3. 18. and will you that are Be<g ref="char:EOLhyphen"/>lievers be ſad. Oh! chear up, lift
+<pb n="152" facs="tcp:37079:83"/> up your Heads and Rejoice. I ſay to you as <hi>Jonadab</hi> to <hi>Amnon, 2 Sam. 13. 3. Why art thou, being a Kings Son ſo lean from day to day, ſo, why are you, Believers, being the King's Sons, and Daughters of Heaven, ſo ſad, Why do you not re<g ref="char:EOLhyphen"/>joice more in Chriſt, and in your bleſſed Estate, being Sealed, and aſſured by the ſpirit; Oh rejoice in the Lord, and again I ſay rejoice.</hi> Phil. 4. 4. How merry is the Bird, how muſical does it ſing, that knows not where to have, and pick up its next Crumb, and will you be ſad who are aſſured of God's Love to you, and not re<g ref="char:EOLhyphen"/>joice in it. I <hi>will rejoice</hi> (faith <hi>Habakkuk</hi> in the God of my Sal<g ref="char:EOLhyphen"/>vation. Hab. 3. 17, 18. But,</p>
+            <p>
+               <hi>Fifthly</hi> and laſtly, and ſo I ſhall conclude. Let your Hearts be much endeared to God by Love;
+<pb n="153" facs="tcp:37079:83"/> he hath done great things for you in Chriſt, and beſtowed much up<g ref="char:EOLhyphen"/>on you. Oh, ſee that your Hearts run out in Love towards him, Pſal. 31. 23. <hi>Oh love the Lord, all ye his Saints;</hi> it was a Saying of <hi>Auſtin,</hi> I <hi>would hate my</hi> Soul <hi>if</hi> I <hi>did not find it loving God.</hi> Whom ſhould you love but God? Has he done ſo much in you, and for you, and will you not Love Him? Oh give him your Hearts and beſt Affections, and ſhew your Love to him by obeying his Commands; <hi>If ye Love Me</hi> (ſaith Chriſt) <hi>Keep my Com<g ref="char:EOLhyphen"/>mandments,</hi> John 14, 15, 16: Thus improve your Grace and Aſſurance, that you may glo<g ref="char:EOLhyphen"/>rifie the Name of that God, who hath called you out of Darkneſs, into this marvellous Light; and Sealed you by his
+<pb n="154" facs="tcp:37079:84"/> Spirit. Thus much for this Time, and this Text; the Lord give you Underſtanding, in all theſe things. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:37079:84"/>
+            <head>Advertiſement.</head>
+            <p>ALL Sorts of Second-hand Books bought and Sold; as Mathematical, Arithmetical, Phi<g ref="char:EOLhyphen"/>loſophical, Aſtrological, Chymi<g ref="char:EOLhyphen"/>cal, Chyrurgical, Phyſical Poeti<g ref="char:EOLhyphen"/>cal, Travels, Voyages, and Di<g ref="char:EOLhyphen"/>vinity; choice Bibles; where is to be had Money for any Study, or Parcles of Books; by <hi>Caleb Hooker,</hi> at the Sign of the <hi>Muzeled Bear,</hi> on <hi>Wapping-Wall,</hi> near Pelican-Stairs.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
